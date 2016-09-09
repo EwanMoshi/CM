@@ -61,9 +61,6 @@
     <property role="1pbfSe" value="695224400" />
     <property role="TrG5h" value="Tier" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="PrWs8" id="3qSRC2vPHAC" role="PzmwI">
-      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
-    </node>
     <node concept="1TJgyj" id="3qSRC2vPHAK" role="1TKVEi">
       <property role="20lmBu" value="aggregation" />
       <property role="20kJfa" value="shape" />
@@ -81,6 +78,15 @@
       <property role="20kJfa" value="Flavour" />
       <property role="20lbJX" value="1" />
       <ref role="20lvS9" node="3qSRC2vPV$r" resolve="Flavour" />
+    </node>
+    <node concept="1TJgyi" id="3qSRC2vPYIQ" role="1TKVEl">
+      <property role="TrG5h" value="level" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyj" id="3qSRC2vQ1IE" role="1TKVEi">
+      <property role="20lmBu" value="reference" />
+      <property role="20kJfa" value="nextTier" />
+      <ref role="20lvS9" node="3qSRC2vPH$K" resolve="Tier" />
     </node>
   </node>
   <node concept="1TIwiD" id="3qSRC2vPH_c">
@@ -119,9 +125,6 @@
     <property role="R5$K7" value="true" />
     <property role="R5$K2" value="false" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="PrWs8" id="3qSRC2vPX6F" role="PzmwI">
-      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
-    </node>
   </node>
   <node concept="1TIwiD" id="3qSRC2vPVAJ">
     <property role="1pbfSe" value="695166929" />

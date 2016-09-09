@@ -14,7 +14,7 @@
       <unit at="12,0,21,0" name="CM.behavior.Decoration_BehaviorDescriptor" />
     </file>
     <file name="Flavour_BehaviorDescriptor.java">
-      <unit at="14,0,26,0" name="CM.behavior.Flavour_BehaviorDescriptor" />
+      <unit at="12,0,21,0" name="CM.behavior.Flavour_BehaviorDescriptor" />
     </file>
     <file name="RedVelvet_BehaviorDescriptor.java">
       <unit at="11,0,20,0" name="CM.behavior.RedVelvet_BehaviorDescriptor" />
@@ -32,7 +32,7 @@
       <unit at="11,0,20,0" name="CM.behavior.Square_BehaviorDescriptor" />
     </file>
     <file name="Tier_BehaviorDescriptor.java">
-      <unit at="14,0,26,0" name="CM.behavior.Tier_BehaviorDescriptor" />
+      <unit at="12,0,21,0" name="CM.behavior.Tier_BehaviorDescriptor" />
     </file>
   </root>
 </debug-info>
