@@ -70,6 +70,18 @@
       <property role="20lbJX" value="1" />
       <ref role="20lvS9" node="3qSRC2vPH_c" resolve="Shape" />
     </node>
+    <node concept="1TJgyj" id="3qSRC2vPVAC" role="1TKVEi">
+      <property role="20lmBu" value="aggregation" />
+      <property role="20kJfa" value="decoration" />
+      <property role="20lbJX" value="0..n" />
+      <ref role="20lvS9" node="3qSRC2vPVzZ" resolve="Decoration" />
+    </node>
+    <node concept="1TJgyj" id="3qSRC2vPVAF" role="1TKVEi">
+      <property role="20lmBu" value="aggregation" />
+      <property role="20kJfa" value="Flavour" />
+      <property role="20lbJX" value="1" />
+      <ref role="20lvS9" node="3qSRC2vPV$r" resolve="Flavour" />
+    </node>
   </node>
   <node concept="1TIwiD" id="3qSRC2vPH_c">
     <property role="1pbfSe" value="695224372" />
@@ -77,26 +89,22 @@
     <property role="R5$K7" value="true" />
     <property role="R5$K2" value="false" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyi" id="3qSRC2vPWAp" role="1TKVEl">
+      <property role="TrG5h" value="size" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
   </node>
   <node concept="1TIwiD" id="3qSRC2vPH_C">
     <property role="1pbfSe" value="695224344" />
     <property role="TrG5h" value="Circle" />
     <property role="34LRSv" value="circle" />
     <ref role="1TJDcQ" node="3qSRC2vPH_c" resolve="Shape" />
-    <node concept="1TJgyi" id="3qSRC2vPHA4" role="1TKVEl">
-      <property role="TrG5h" value="size" />
-      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
-    </node>
   </node>
   <node concept="1TIwiD" id="3qSRC2vPHA6">
     <property role="1pbfSe" value="695224314" />
     <property role="TrG5h" value="Square" />
     <property role="34LRSv" value="square" />
     <ref role="1TJDcQ" node="3qSRC2vPH_c" resolve="Shape" />
-    <node concept="1TJgyi" id="3qSRC2vPHAy" role="1TKVEl">
-      <property role="TrG5h" value="size" />
-      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
-    </node>
   </node>
   <node concept="1TIwiD" id="3qSRC2vPVzZ">
     <property role="1pbfSe" value="695167105" />
@@ -111,6 +119,33 @@
     <property role="R5$K7" value="true" />
     <property role="R5$K2" value="false" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="PrWs8" id="3qSRC2vPX6F" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="3qSRC2vPVAJ">
+    <property role="1pbfSe" value="695166929" />
+    <property role="TrG5h" value="RoyalIcing" />
+    <ref role="1TJDcQ" node="3qSRC2vPVzZ" resolve="Decoration" />
+  </node>
+  <node concept="1TIwiD" id="3qSRC2vPW5S">
+    <property role="1pbfSe" value="695164936" />
+    <property role="TrG5h" value="Sprinkles" />
+    <ref role="1TJDcQ" node="3qSRC2vPVzZ" resolve="Decoration" />
+    <node concept="1TJgyi" id="3qSRC2vPW6k" role="1TKVEl">
+      <property role="TrG5h" value="type" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="3qSRC2vPX6L">
+    <property role="1pbfSe" value="695160783" />
+    <property role="TrG5h" value="Chocolate" />
+    <ref role="1TJDcQ" node="3qSRC2vPV$r" resolve="Flavour" />
+  </node>
+  <node concept="1TIwiD" id="3qSRC2vPXCA">
+    <property role="1pbfSe" value="695158618" />
+    <property role="TrG5h" value="RedVelvet" />
+    <ref role="1TJDcQ" node="3qSRC2vPV$r" resolve="Flavour" />
   </node>
 </model>
 

@@ -4,11 +4,29 @@
     <file name="Cake_BehaviorDescriptor.java">
       <unit at="14,0,26,0" name="CM.behavior.Cake_BehaviorDescriptor" />
     </file>
+    <file name="Chocolate_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="CM.behavior.Chocolate_BehaviorDescriptor" />
+    </file>
     <file name="Circle_BehaviorDescriptor.java">
       <unit at="11,0,20,0" name="CM.behavior.Circle_BehaviorDescriptor" />
     </file>
+    <file name="Decoration_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="CM.behavior.Decoration_BehaviorDescriptor" />
+    </file>
+    <file name="Flavour_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="CM.behavior.Flavour_BehaviorDescriptor" />
+    </file>
+    <file name="RedVelvet_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="CM.behavior.RedVelvet_BehaviorDescriptor" />
+    </file>
+    <file name="RoyalIcing_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="CM.behavior.RoyalIcing_BehaviorDescriptor" />
+    </file>
     <file name="Shape_BehaviorDescriptor.java">
       <unit at="12,0,21,0" name="CM.behavior.Shape_BehaviorDescriptor" />
+    </file>
+    <file name="Sprinkles_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="CM.behavior.Sprinkles_BehaviorDescriptor" />
     </file>
     <file name="Square_BehaviorDescriptor.java">
       <unit at="11,0,20,0" name="CM.behavior.Square_BehaviorDescriptor" />
