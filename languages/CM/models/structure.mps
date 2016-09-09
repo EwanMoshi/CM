@@ -60,6 +60,7 @@
   <node concept="1TIwiD" id="3qSRC2vPH$K">
     <property role="1pbfSe" value="695224400" />
     <property role="TrG5h" value="Tier" />
+    <property role="34LRSv" value="tier" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="3qSRC2vPHAK" role="1TKVEi">
       <property role="20lmBu" value="aggregation" />
@@ -87,6 +88,9 @@
       <property role="20lmBu" value="reference" />
       <property role="20kJfa" value="nextTier" />
       <ref role="20lvS9" node="3qSRC2vPH$K" resolve="Tier" />
+    </node>
+    <node concept="PrWs8" id="3qSRC2vQjjd" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
   </node>
   <node concept="1TIwiD" id="3qSRC2vPH_c">

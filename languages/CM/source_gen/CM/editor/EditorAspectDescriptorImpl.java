@@ -24,6 +24,9 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
       if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x302ba9749330456cL, 0x8ab141e68cf0c655L, 0x36b8de809fd6d986L, "CM.structure.Square"))) {
         return Collections.<ConceptEditor>singletonList(new Square_Editor());
       }
+      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x302ba9749330456cL, 0x8ab141e68cf0c655L, 0x36b8de809fd6d930L, "CM.structure.Tier"))) {
+        return Collections.<ConceptEditor>singletonList(new Tier_Editor());
+      }
     }
     return Collections.<ConceptEditor>emptyList();
   }
