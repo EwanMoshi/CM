@@ -7,6 +7,7 @@
   <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
   <root>
     <file name="ConstraintsAspectDescriptor.java">
@@ -15,44 +16,71 @@
   </root>
   <root nodeRef="r:4e07d765-59f5-444d-88e8-2ad2394621d4(CM.constraints)/3943146117781781740">
     <file name="Tier_Constraints.java">
-      <node id="3943146117781781740" at="18,29,19,98" concept="7" />
+      <node id="3943146117781781740" at="18,29,19,98" concept="8" />
       <node id="3943146117781781740" at="22,88,23,123" concept="5" />
       <node id="3943146117781781740" at="26,40,27,20" concept="6" />
       <node id="3943146117781781740" at="30,70,31,38" concept="5" />
       <node id="3943146117781803505" at="33,393,34,24" concept="6" />
       <node id="3943146117781805522" at="35,18,36,25" concept="6" />
       <node id="3943146117781838489" at="38,9,39,20" concept="6" />
-      <node id="3943146117781781740" at="41,7,42,22" concept="6" />
+      <node id="3943146117781781740" at="44,40,45,20" concept="6" />
+      <node id="3943146117781781740" at="48,70,49,37" concept="5" />
+      <node id="3943146117781911551" at="51,387,52,24" concept="6" />
+      <node id="3943146117781911564" at="53,18,54,25" concept="6" />
+      <node id="3943146117781912650" at="56,9,57,20" concept="6" />
+      <node id="3943146117781911802" at="57,20,58,0" concept="7" />
+      <node id="3943146117781781740" at="60,7,61,22" concept="6" />
       <node id="3943146117781813729" at="35,16,37,11" concept="0" />
+      <node id="3943146117781911562" at="53,16,55,11" concept="0" />
       <node id="3943146117781781740" at="18,0,21,0" concept="1" trace="Tier_Constraints#()V" />
       <node id="3943146117781781740" at="25,0,29,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="3943146117781781740" at="43,0,47,0" concept="4" trace="hasOwnValidator#()Z" />
       <node id="3943146117781798140" at="32,189,37,11" concept="3" />
+      <node id="3943146117781911549" at="50,189,55,11" concept="3" />
       <node id="3943146117781830036" at="31,38,38,9" concept="3" />
+      <node id="3943146117781911547" at="49,37,56,9" concept="3" />
       <node id="3943146117781781740" at="31,38,39,20" concept="0" />
+      <node id="3943146117781781740" at="49,37,58,0" concept="0" />
       <node id="3943146117781781740" at="29,0,41,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="3943146117781781740" at="47,0,60,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
       <node id="3943146117781781740" at="23,123,41,7" concept="2" />
-      <node id="3943146117781781740" at="21,0,44,0" concept="4" trace="getNotDefaultSProperties#()Ljava/util/Map;" />
+      <node id="3943146117781781740" at="41,7,60,7" concept="2" />
+      <node id="3943146117781781740" at="21,0,63,0" concept="4" trace="getNotDefaultSProperties#()Ljava/util/Map;" />
       <scope id="3943146117781781740" at="18,29,19,98" />
       <scope id="3943146117781781740" at="26,40,27,20" />
       <scope id="3943146117781798142" at="33,393,34,24" />
       <scope id="3943146117781813730" at="35,18,36,25" />
+      <scope id="3943146117781781740" at="44,40,45,20" />
+      <scope id="3943146117781911550" at="51,387,52,24" />
+      <scope id="3943146117781911563" at="53,18,54,25" />
       <scope id="3943146117781781740" at="18,0,21,0" />
       <scope id="3943146117781781740" at="25,0,29,0" />
+      <scope id="3943146117781781740" at="43,0,47,0" />
       <scope id="3943146117781830038" at="32,189,37,11" />
+      <scope id="3943146117781911548" at="50,189,55,11" />
       <scope id="3943146117781781847" at="31,38,39,20" />
       <scope id="3943146117781781740" at="30,70,39,20">
+        <var name="propertyName" id="3943146117781781740" />
+      </scope>
+      <scope id="3943146117781911479" at="49,37,58,0" />
+      <scope id="3943146117781781740" at="48,70,58,0">
         <var name="propertyName" id="3943146117781781740" />
       </scope>
       <scope id="3943146117781781740" at="29,0,41,0">
         <var name="node" id="3943146117781781740" />
         <var name="propertyValue" id="3943146117781781740" />
       </scope>
-      <scope id="3943146117781781740" at="22,88,42,22">
+      <scope id="3943146117781781740" at="47,0,60,0">
+        <var name="node" id="3943146117781781740" />
+        <var name="propertyValue" id="3943146117781781740" />
+      </scope>
+      <scope id="3943146117781781740" at="22,88,61,22">
         <var name="properties" id="3943146117781781740" />
       </scope>
-      <scope id="3943146117781781740" at="21,0,44,0" />
+      <scope id="3943146117781781740" at="21,0,63,0" />
       <unit id="3943146117781781740" at="24,129,41,5" name="CM.constraints.Tier_Constraints$1" />
-      <unit id="3943146117781781740" at="17,0,45,0" name="CM.constraints.Tier_Constraints" />
+      <unit id="3943146117781781740" at="42,129,60,5" name="CM.constraints.Tier_Constraints$2" />
+      <unit id="3943146117781781740" at="17,0,64,0" name="CM.constraints.Tier_Constraints" />
     </file>
   </root>
 </debug-info>

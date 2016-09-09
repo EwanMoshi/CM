@@ -74,36 +74,6 @@
       <node concept="l2Vlx" id="3qSRC2vPHCi" role="2iSdaV" />
     </node>
   </node>
-  <node concept="24kQdi" id="3qSRC2vPS$T">
-    <ref role="1XX52x" to="akme:3qSRC2vPH_C" resolve="Circle" />
-    <node concept="3EZMnI" id="3qSRC2vPS_m" role="2wV5jI">
-      <node concept="3F0ifn" id="3qSRC2vPV7r" role="3EZMnx">
-        <property role="3F0ifm" value="circle" />
-      </node>
-      <node concept="3F0ifn" id="3qSRC2vPS_t" role="3EZMnx">
-        <property role="3F0ifm" value="size:" />
-      </node>
-      <node concept="3F0A7n" id="3qSRC2vPS_z" role="3EZMnx">
-        <ref role="1NtTu8" to="akme:3qSRC2vPWAp" resolve="size" />
-      </node>
-      <node concept="l2Vlx" id="3qSRC2vPS_p" role="2iSdaV" />
-    </node>
-  </node>
-  <node concept="24kQdi" id="3qSRC2vPUEU">
-    <ref role="1XX52x" to="akme:3qSRC2vPHA6" resolve="Square" />
-    <node concept="3EZMnI" id="3qSRC2vPUFn" role="2wV5jI">
-      <node concept="3F0ifn" id="3qSRC2vPV7G" role="3EZMnx">
-        <property role="3F0ifm" value="square" />
-      </node>
-      <node concept="3F0ifn" id="3qSRC2vPUFu" role="3EZMnx">
-        <property role="3F0ifm" value="size:" />
-      </node>
-      <node concept="3F0A7n" id="3qSRC2vPUF$" role="3EZMnx">
-        <ref role="1NtTu8" to="akme:3qSRC2vPWAp" resolve="size" />
-      </node>
-      <node concept="l2Vlx" id="3qSRC2vPUFq" role="2iSdaV" />
-    </node>
-  </node>
   <node concept="24kQdi" id="3qSRC2vQlpE">
     <ref role="1XX52x" to="akme:3qSRC2vPH$K" resolve="Tier" />
     <node concept="3EZMnI" id="3qSRC2vQhc5" role="2wV5jI">
@@ -131,6 +101,15 @@
             <ref role="1NtTu8" to="tpck:h0TrG11" resolve="name" />
           </node>
         </node>
+      </node>
+      <node concept="3F0ifn" id="3qSRC2vQyly" role="3EZMnx">
+        <property role="3F0ifm" value="Size:" />
+        <node concept="pVoyu" id="3qSRC2vQymI" role="3F10Kt">
+          <property role="VOm3f" value="true" />
+        </node>
+      </node>
+      <node concept="3F0A7n" id="3qSRC2vQymk" role="3EZMnx">
+        <ref role="1NtTu8" to="akme:3qSRC2vQumE" resolve="size" />
       </node>
       <node concept="l2Vlx" id="3qSRC2vQhc8" role="2iSdaV" />
       <node concept="3F0ifn" id="3qSRC2vQlx5" role="3EZMnx">

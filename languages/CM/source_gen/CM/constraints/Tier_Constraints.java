@@ -39,6 +39,25 @@ public class Tier_Constraints extends BaseConstraintsDescriptor {
         return true;
       }
     });
+    properties.put(MetaIdFactory.propId(0x302ba9749330456cL, 0x8ab141e68cf0c655L, 0x36b8de809fd6d930L, 0x36b8de809fd9e5aaL), new BasePropertyConstraintsDescriptor(MetaIdFactory.propId(0x302ba9749330456cL, 0x8ab141e68cf0c655L, 0x36b8de809fd6d930L, 0x36b8de809fd9e5aaL), this) {
+      @Override
+      public boolean hasOwnValidator() {
+        return true;
+      }
+      @Override
+      public boolean validateValue(SNode node, String propertyValue) {
+        String propertyName = "size";
+        if ((SLinkOperations.getTarget(node, MetaAdapterFactory.getReferenceLink(0x302ba9749330456cL, 0x8ab141e68cf0c655L, 0x36b8de809fd6d930L, 0x36b8de809fd81baaL, "nextTier")) != null)) {
+          if ((SPropertyOperations.getInteger(propertyValue)) > SPropertyOperations.getInteger(SLinkOperations.getTarget(node, MetaAdapterFactory.getReferenceLink(0x302ba9749330456cL, 0x8ab141e68cf0c655L, 0x36b8de809fd6d930L, 0x36b8de809fd81baaL, "nextTier")), MetaAdapterFactory.getProperty(0x302ba9749330456cL, 0x8ab141e68cf0c655L, 0x36b8de809fd6d930L, 0x36b8de809fd9e5aaL, "size"))) {
+            return true;
+          } else {
+            return false;
+          }
+        }
+        return true;
+
+      }
+    });
     return properties;
   }
 }

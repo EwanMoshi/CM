@@ -84,6 +84,10 @@
       <property role="TrG5h" value="level" />
       <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
     </node>
+    <node concept="1TJgyi" id="3qSRC2vQumE" role="1TKVEl">
+      <property role="TrG5h" value="size" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
     <node concept="1TJgyj" id="3qSRC2vQ1IE" role="1TKVEi">
       <property role="20lmBu" value="reference" />
       <property role="20kJfa" value="nextTier" />
@@ -99,10 +103,6 @@
     <property role="R5$K7" value="true" />
     <property role="R5$K2" value="false" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyi" id="3qSRC2vPWAp" role="1TKVEl">
-      <property role="TrG5h" value="size" />
-      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
-    </node>
   </node>
   <node concept="1TIwiD" id="3qSRC2vPH_C">
     <property role="1pbfSe" value="695224344" />
