@@ -7,6 +7,7 @@
   </languages>
   <imports>
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
+    <import index="4fqr" ref="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" implicit="true" />
   </imports>
   <registry>
     <language id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure">
@@ -49,6 +50,9 @@
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="3qSRC2vPH$E" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+    <node concept="PrWs8" id="5444fEzVR8I" role="PzmwI">
+      <ref role="PrY4T" to="4fqr:431DWIovi3l" resolve="IMainClass" />
     </node>
     <node concept="1TJgyj" id="3qSRC2vPH$I" role="1TKVEi">
       <property role="20lmBu" value="aggregation" />
@@ -147,11 +151,13 @@
   <node concept="1TIwiD" id="3qSRC2vPX6L">
     <property role="1pbfSe" value="695160783" />
     <property role="TrG5h" value="Chocolate" />
+    <property role="34LRSv" value="chocolate" />
     <ref role="1TJDcQ" node="3qSRC2vPV$r" resolve="Flavour" />
   </node>
   <node concept="1TIwiD" id="3qSRC2vPXCA">
     <property role="1pbfSe" value="695158618" />
     <property role="TrG5h" value="RedVelvet" />
+    <property role="34LRSv" value="redvelvet" />
     <ref role="1TJDcQ" node="3qSRC2vPV$r" resolve="Flavour" />
   </node>
 </model>

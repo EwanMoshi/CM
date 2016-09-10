@@ -1,3 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<debug-info />
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/3943146117781752069">
+    <file name="testCake.java">
+      <node id="3943146117781752069" at="8,0,9,0" concept="1" trace="eggs" />
+      <node id="3943146117781752069" at="9,0,10,0" concept="1" trace="flour" />
+      <node id="3943146117781752069" at="10,0,11,0" concept="1" trace="sugar" />
+      <node id="3943146117781752069" at="11,0,12,0" concept="1" trace="cocoaPowder" />
+      <node id="3943146117781752069" at="12,0,13,0" concept="1" trace="milk" />
+      <node id="3943146117781752069" at="13,0,14,0" concept="1" trace="butter" />
+      <node id="3943146117781752069" at="14,0,15,0" concept="1" trace="vanilla" />
+      <node id="3943146117781752069" at="15,0,16,0" concept="1" trace="salt" />
+      <node id="3943146117781752069" at="16,0,17,0" concept="1" trace="bakingSoda" />
+      <node id="3943146117781752069" at="17,0,18,0" concept="1" trace="foodColoring" />
+      <node id="3943146117781752069" at="22,28,23,0" concept="6" />
+      <node id="3943146117781752069" at="23,0,24,32" concept="4" />
+      <node id="3943146117781752069" at="24,32,25,29" concept="4" />
+      <node id="3943146117781752069" at="25,29,26,27" concept="4" />
+      <node id="3943146117781752069" at="26,27,27,24" concept="4" />
+      <node id="3943146117781752069" at="28,47,29,38" concept="0" />
+      <node id="3943146117781752069" at="30,54,31,38" concept="0" />
+      <node id="3943146117781752069" at="33,44,34,35" concept="0" />
+      <node id="3943146117781752069" at="35,51,36,35" concept="0" />
+      <node id="3943146117781752069" at="37,5,38,0" concept="6" />
+      <node id="3943146117781752069" at="41,65,42,25" concept="0" />
+      <node id="3943146117781752069" at="45,48,46,59" concept="0" />
+      <node id="3943146117781752069" at="46,59,47,42" concept="0" />
+      <node id="3943146117781752069" at="47,42,48,34" concept="0" />
+      <node id="3943146117781752069" at="48,34,49,38" concept="0" />
+      <node id="3943146117781752069" at="49,38,50,39" concept="0" />
+      <node id="3943146117781752069" at="50,39,51,34" concept="0" />
+      <node id="3943146117781752069" at="51,34,52,35" concept="0" />
+      <node id="3943146117781752069" at="55,48,56,59" concept="0" />
+      <node id="3943146117781752069" at="56,59,57,40" concept="0" />
+      <node id="3943146117781752069" at="57,40,58,36" concept="0" />
+      <node id="3943146117781752069" at="58,36,59,41" concept="0" />
+      <node id="3943146117781752069" at="59,41,60,36" concept="0" />
+      <node id="3943146117781752069" at="60,36,61,33" concept="0" />
+      <node id="3943146117781752069" at="61,33,62,39" concept="0" />
+      <node id="3943146117781752069" at="62,39,63,36" concept="0" />
+      <node id="3943146117781752069" at="63,36,64,37" concept="0" />
+      <node id="3943146117781752069" at="67,22,68,58" concept="0" />
+      <node id="3943146117781752069" at="68,58,69,68" concept="0" />
+      <node id="3943146117781752069" at="69,68,70,80" concept="0" />
+      <node id="3943146117781752069" at="70,80,71,65" concept="0" />
+      <node id="3943146117781752069" at="71,65,72,66" concept="0" />
+      <node id="3943146117781752069" at="72,66,73,76" concept="0" />
+      <node id="3943146117781752069" at="73,76,74,70" concept="0" />
+      <node id="3943146117781752069" at="74,70,75,83" concept="0" />
+      <node id="3943146117781752069" at="75,83,76,82" concept="0" />
+      <node id="3943146117781752069" at="79,42,80,35" concept="4" />
+      <node id="3943146117781752069" at="80,35,81,22" concept="0" />
+      <node id="3943146117781752069" at="81,22,82,33" concept="5" />
+      <node id="3943146117781752069" at="82,33,83,11" concept="5" />
+      <node id="3943146117781752069" at="83,11,84,0" concept="6" />
+      <node id="3943146117781752069" at="84,0,85,16" concept="0" />
+      <node id="3943146117781752069" at="41,0,44,0" concept="3" trace="addToIngredient#(DD)V" />
+      <node id="3943146117781752069" at="27,24,32,5" concept="2" />
+      <node id="3943146117781752069" at="32,5,37,5" concept="2" />
+      <node id="3943146117781752069" at="79,0,87,0" concept="7" trace="main#([Ljava/lang/String;)V" />
+      <node id="3943146117781752069" at="45,0,54,0" concept="3" trace="createChocolateTier#(D)V" />
+      <node id="3943146117781752069" at="55,0,66,0" concept="3" trace="createRedVelvetTier#(D)V" />
+      <node id="3943146117781752069" at="67,0,78,0" concept="3" trace="Bake#()V" />
+      <node id="3943146117781752069" at="22,0,40,0" concept="3" trace="createTier#()V" />
+      <scope id="3943146117781752069" at="28,47,29,38" />
+      <scope id="3943146117781752069" at="30,54,31,38" />
+      <scope id="3943146117781752069" at="33,44,34,35" />
+      <scope id="3943146117781752069" at="35,51,36,35" />
+      <scope id="3943146117781752069" at="41,65,42,25" />
+      <scope id="3943146117781752069" at="41,0,44,0">
+        <var name="amount" id="3943146117781752069" />
+        <var name="ingredient" id="3943146117781752069" />
+      </scope>
+      <scope id="3943146117781752069" at="79,42,85,16">
+        <var name="cake" id="3943146117781752069" />
+      </scope>
+      <scope id="3943146117781752069" at="45,48,52,35" />
+      <scope id="3943146117781752069" at="79,0,87,0">
+        <var name="args" id="3943146117781752069" />
+      </scope>
+      <scope id="3943146117781752069" at="45,0,54,0">
+        <var name="size" id="3943146117781752069" />
+      </scope>
+      <scope id="3943146117781752069" at="55,48,64,37" />
+      <scope id="3943146117781752069" at="67,22,76,82" />
+      <scope id="3943146117781752069" at="55,0,66,0">
+        <var name="size" id="3943146117781752069" />
+      </scope>
+      <scope id="3943146117781752069" at="67,0,78,0" />
+      <scope id="3943146117781752069" at="22,28,38,0">
+        <var name="bottom" id="3943146117781752069" />
+        <var name="bottomSize" id="3943146117781752069" />
+        <var name="top" id="3943146117781752069" />
+        <var name="topSize" id="3943146117781752069" />
+      </scope>
+      <scope id="3943146117781752069" at="22,0,40,0" />
+      <unit id="3943146117781752069" at="6,0,88,0" name="CM.sandbox.testCake" />
+    </file>
+  </root>
+</debug-info>
 

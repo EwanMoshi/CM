@@ -4,7 +4,9 @@ package CM.behavior;
 
 import jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor;
 import jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor;
+import jetbrains.mps.execution.util.behavior.IMainClass_BehaviorDescriptor;
 import org.jetbrains.mps.openapi.model.SNode;
+import jetbrains.mps.smodel.behaviour.DefaultValuesHolder;
 
 /**
  * Will be removed after 3.3
@@ -12,9 +14,15 @@ import org.jetbrains.mps.openapi.model.SNode;
  * This class is not involved in the actual method invocation
  */
 @Deprecated
-public class Cake_BehaviorDescriptor extends BaseConcept_BehaviorDescriptor implements INamedConcept_BehaviorDescriptor {
+public class Cake_BehaviorDescriptor extends BaseConcept_BehaviorDescriptor implements INamedConcept_BehaviorDescriptor, IMainClass_BehaviorDescriptor {
   public String virtual_getFqName_1213877404258(SNode __thisNode__) {
     return null;
+  }
+  public String virtual_getUnitName_4666195181811081431(SNode __thisNode__) {
+    return null;
+  }
+  public boolean virtual_isNodeRunnable_4666195181811081448(SNode __thisNode__) {
+    return DefaultValuesHolder.defaultValue(Boolean.TYPE);
   }
 
   @Override

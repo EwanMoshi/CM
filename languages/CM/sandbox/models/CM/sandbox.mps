@@ -10,6 +10,7 @@
   </imports>
   <registry>
     <language id="302ba974-9330-456c-8ab1-41e68cf0c655" name="CM">
+      <concept id="3943146117781707142" name="CM.structure.Square" flags="ng" index="2Drws6" />
       <concept id="3943146117781707022" name="CM.structure.Cake" flags="ng" index="2Drwue">
         <child id="3943146117781707054" name="tiers" index="2DrwuI" />
       </concept>
@@ -20,7 +21,6 @@
         <child id="3943146117781707184" name="shape" index="2DrwsK" />
         <child id="3943146117781764523" name="Flavour" index="2DrQsF" />
       </concept>
-      <concept id="3943146117781707112" name="CM.structure.Circle" flags="ng" index="2DrwvC" />
       <concept id="3943146117781772838" name="CM.structure.RedVelvet" flags="ng" index="2DrKiA" />
       <concept id="3943146117781770673" name="CM.structure.Chocolate" flags="ng" index="2DrKWL" />
     </language>
@@ -32,28 +32,20 @@
   </registry>
   <node concept="2Drwue" id="3qSRC2vPS$5">
     <property role="TrG5h" value="testCake" />
-    <node concept="2DrwuK" id="3qSRC2vQziy" role="2DrwuI">
-      <property role="TrG5h" value="bottom" />
-      <property role="2DojGE" value="30" />
+    <node concept="2DrwuK" id="5444fEzVhK2" role="2DrwuI">
+      <property role="2DojGE" value="10" />
       <property role="2DrNkQ" value="1" />
-      <ref role="2DockE" node="3qSRC2vQziI" resolve="middle" />
-      <node concept="2DrwvC" id="3qSRC2vQziC" role="2DrwsK" />
-      <node concept="2DrKiA" id="3qSRC2vQziF" role="2DrQsF" />
+      <property role="TrG5h" value="bottom" />
+      <ref role="2DockE" node="5444fEzVlDO" resolve="top" />
+      <node concept="2Drws6" id="5444fEzVlDL" role="2DrwsK" />
+      <node concept="2DrKWL" id="5444fEzVhK8" role="2DrQsF" />
     </node>
-    <node concept="2DrwuK" id="3qSRC2vQziI" role="2DrwuI">
-      <property role="TrG5h" value="middle" />
-      <property role="2DojGE" value="20" />
-      <property role="2DrNkQ" value="2" />
-      <ref role="2DockE" node="3qSRC2vQzjf" resolve="top" />
-      <node concept="2DrwvC" id="3qSRC2vQziR" role="2DrwsK" />
-      <node concept="2DrKWL" id="3qSRC2vQzjc" role="2DrQsF" />
-    </node>
-    <node concept="2DrwuK" id="3qSRC2vQzjf" role="2DrwuI">
+    <node concept="2DrwuK" id="5444fEzVlDO" role="2DrwuI">
       <property role="TrG5h" value="top" />
-      <property role="2DojGE" value="19" />
-      <property role="2DrNkQ" value="3" />
-      <node concept="2DrwvC" id="3qSRC2vQzjt" role="2DrwsK" />
-      <node concept="2DrKWL" id="3qSRC2vQzjw" role="2DrQsF" />
+      <property role="2DojGE" value="9" />
+      <property role="2DrNkQ" value="2" />
+      <node concept="2Drws6" id="5444fEzVlDX" role="2DrwsK" />
+      <node concept="2DrKiA" id="5444fEzVlE0" role="2DrQsF" />
     </node>
   </node>
 </model>
