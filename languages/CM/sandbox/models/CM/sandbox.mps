@@ -33,7 +33,7 @@
   <node concept="2Drwue" id="3qSRC2vPS$5">
     <property role="TrG5h" value="testCake" />
     <node concept="2DrwuK" id="5444fEzVhK2" role="2DrwuI">
-      <property role="2DojGE" value="10" />
+      <property role="2DojGE" value="4" />
       <property role="2DrNkQ" value="1" />
       <property role="TrG5h" value="bottom" />
       <ref role="2DockE" node="5444fEzVlDO" resolve="top" />
@@ -42,7 +42,7 @@
     </node>
     <node concept="2DrwuK" id="5444fEzVlDO" role="2DrwuI">
       <property role="TrG5h" value="top" />
-      <property role="2DojGE" value="9" />
+      <property role="2DojGE" value="1" />
       <property role="2DrNkQ" value="2" />
       <node concept="2Drws6" id="5444fEzVlDX" role="2DrwsK" />
       <node concept="2DrKiA" id="5444fEzVlE0" role="2DrQsF" />

@@ -7,35 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265a7c14-9f78-48b6-ab55-69ee6e11b277" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/testCake.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/classes_gen/CM/behavior/Cake_BehaviorDescriptor.class" afterPath="$PROJECT_DIR$/languages/CM/classes_gen/CM/behavior/Cake_BehaviorDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/classes_gen/CM/behavior/Shape_BehaviorDescriptor.class" afterPath="$PROJECT_DIR$/languages/CM/classes_gen/CM/behavior/Shape_BehaviorDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/classes_gen/CM/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/CM/classes_gen/CM/structure/StructureAspectDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/classes_gen/CM/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/CM/generator/classes_gen/CM/generator/template/main/QueriesGenerated.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/classes_gen/CM/Language.class" afterPath="$PROJECT_DIR$/languages/CM/classes_gen/CM/Language.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/CM.mpl" afterPath="$PROJECT_DIR$/languages/CM/CM.mpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/classes_gen/CM/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/CM/classes_gen/CM/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/classes_gen/CM/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/CM/generator/classes_gen/CM/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/dependencies" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen/CM/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen/CM/generator/template/main/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen/CM/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen/CM/generator/template/main/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/CM/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/models/editor.mps" afterPath="$PROJECT_DIR$/languages/CM/models/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/models/structure.mps" afterPath="$PROJECT_DIR$/languages/CM/models/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/classes_gen/CM/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/CM/sandbox/classes_gen/CM/sandbox/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" afterPath="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/models/CM/sandbox.mps" afterPath="$PROJECT_DIR$/languages/CM/sandbox/models/CM/sandbox.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/generated" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/behavior/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/editor/generated" afterPath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/editor/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/generated" afterPath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/structure/generated" afterPath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen/CM/behavior/Cake_BehaviorDescriptor.java" afterPath="$PROJECT_DIR$/languages/CM/source_gen/CM/behavior/Cake_BehaviorDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen/CM/behavior/Shape_BehaviorDescriptor.java" afterPath="$PROJECT_DIR$/languages/CM/source_gen/CM/behavior/Shape_BehaviorDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen/CM/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/CM/source_gen/CM/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen/CM/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/CM/source_gen/CM/structure/StructureAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen/CM/Language.java" afterPath="$PROJECT_DIR$/languages/CM/source_gen/CM/Language.java" />
     </list>
     <ignored path="CM.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -73,19 +50,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cake" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Cake" pinned="false" current-in-tab="true">
         <entry file="mps://node://CM/CM.structure/Cake">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="600">
+              <memento viewPositionX="0" viewPositionY="856">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="28" />
-                    <property name="caretX" value="479" />
+                    <property name="caretXRelative" value="20" />
+                    <property name="caretX" value="167" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                      <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/5837809685657536421" />
+                    <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
+                      <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -93,7 +70,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -125,7 +102,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -157,7 +134,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -188,7 +165,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -200,7 +177,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testCake" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testCake" pinned="false" current-in-tab="false">
         <entry file="mps://node://CM.sandbox/CM.sandbox/testCake">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -208,10 +185,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="4" />
-                    <property name="caretX" value="111" />
+                    <property name="caretXRelative" value="12" />
+                    <property name="caretX" value="71" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="empty_decoration" cellNumber="0" isInList="false">
+                    <cellInfo cellId="property_size" cellNumber="0" isInList="false">
                       <node node_reference="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" />
                     </cellInfo>
                   </stackElement>
@@ -220,7 +197,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -251,7 +228,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -283,7 +260,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -315,7 +292,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -347,7 +324,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -381,8 +358,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="870" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1438" />
+    <option name="height" value="868" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -465,78 +444,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:05ef0f50-dbbe-4077-ad2c-096640dbd87e(CM.editor) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/models/editor.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/models/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CM#3943146117781706990" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CM" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -569,6 +476,30 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM#3943146117781706990" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -594,8 +525,48 @@
               <option name="myItemId" value="CM" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/generator/template/main@generator.mps}" />
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/models/structure.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:05ef0f50-dbbe-4077-ad2c-096640dbd87e(CM.editor) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/models/editor.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -610,6 +581,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CM#3943146117781706990" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/generator/template/main@generator.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -691,6 +670,40 @@
       </myRunParameters>
       <method />
     </configuration>
+    <configuration default="false" name="Tests in 'sandbox'" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" value="CM.sandbox" />
+          <option name="myLightExec" value="false" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="C:\Users\Ewan\AppData\Local\Temp\mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="1" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
       <MyState />
       <myJUnitSettings>
@@ -748,14 +761,16 @@
       </myRunParameters>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'CM'" />
       <item index="1" class="java.lang.String" itemvalue="Java Application.Node testCake" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'sandbox'" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Java Application.Node testCake" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'CM'" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'sandbox'" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'CM'" />
       </list>
     </recent_temporary>
   </component>
@@ -764,7 +779,7 @@
     <configuration>C:\Users\Ewan\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="870" extended-state="0" />
+    <frame x="1" y="1" width="1438" height="868" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -777,8 +792,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.252809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33674777" sideWeight="0.47191012" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25316456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33761233" sideWeight="0.47191012" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -788,7 +803,7 @@
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39948782" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.44733146" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32734275" sideWeight="0.44733146" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -825,7 +840,8 @@
     <MESSAGE value="added constraint for sequentia tier level" />
     <MESSAGE value="added editor for Tier" />
     <MESSAGE value="added constraint for size - subsequent tier sizes must be smaller" />
-    <option name="LAST_COMMIT_MESSAGE" value="added constraint for size - subsequent tier sizes must be smaller" />
+    <MESSAGE value="added generator for transformation" />
+    <option name="LAST_COMMIT_MESSAGE" value="added generator for transformation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://node://CM/CM.structure/Cake">
@@ -1343,7 +1359,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1403,7 +1419,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1462,7 +1478,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1492,7 +1508,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1506,15 +1522,15 @@
     <entry file="mps://node://CM/CM.structure/Cake">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="600">
+          <memento viewPositionX="0" viewPositionY="856">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="28" />
-                <property name="caretX" value="479" />
+                <property name="caretXRelative" value="20" />
+                <property name="caretX" value="167" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/5837809685657536421" />
+                <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
+                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1522,7 +1538,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1540,10 +1556,10 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="4" />
-                <property name="caretX" value="111" />
+                <property name="caretXRelative" value="12" />
+                <property name="caretX" value="71" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="empty_decoration" cellNumber="0" isInList="false">
+                <cellInfo cellId="property_size" cellNumber="0" isInList="false">
                   <node node_reference="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" />
                 </cellInfo>
               </stackElement>
@@ -1552,7 +1568,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1581,7 +1597,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1611,7 +1627,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1641,7 +1657,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />

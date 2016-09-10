@@ -753,6 +753,19 @@
             </node>
           </node>
         </node>
+        <node concept="3clFbF" id="5444fEzX$mH" role="3cqZAp">
+          <node concept="d57v9" id="5444fEzX$DA" role="3clFbG">
+            <node concept="3cmrfG" id="5444fEzX$IS" role="37vLTx">
+              <property role="3cmrfH" value="1" />
+            </node>
+            <node concept="2OqwBi" id="5444fEzX$wZ" role="37vLTJ">
+              <node concept="Xjq3P" id="5444fEzX$mF" role="2Oq$k0" />
+              <node concept="2OwXpG" id="5444fEzX$AZ" role="2OqNvi">
+                <ref role="2Oxat5" node="3qSRC2vSfna" resolve="milk" />
+              </node>
+            </node>
+          </node>
+        </node>
       </node>
       <node concept="37vLTG" id="5444fEzWsgu" role="3clF46">
         <property role="TrG5h" value="size" />
@@ -1006,6 +1019,19 @@
             </node>
           </node>
         </node>
+        <node concept="3clFbF" id="5444fEzX_2K" role="3cqZAp">
+          <node concept="d57v9" id="5444fEzX_n7" role="3clFbG">
+            <node concept="3cmrfG" id="5444fEzX_sv" role="37vLTx">
+              <property role="3cmrfH" value="1" />
+            </node>
+            <node concept="2OqwBi" id="5444fEzX_eA" role="37vLTJ">
+              <node concept="Xjq3P" id="5444fEzX_2I" role="2Oq$k0" />
+              <node concept="2OwXpG" id="5444fEzX_kA" role="2OqNvi">
+                <ref role="2Oxat5" node="3qSRC2vSfna" resolve="milk" />
+              </node>
+            </node>
+          </node>
+        </node>
       </node>
       <node concept="37vLTG" id="5444fEzWsJJ" role="3clF46">
         <property role="TrG5h" value="size" />
@@ -1026,15 +1052,15 @@
             </node>
             <node concept="liA8E" id="5444fEzVM3C" role="2OqNvi">
               <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-              <node concept="3cpWs3" id="5444fEzVMn$" role="37wK5m">
-                <node concept="Xl_RD" id="5444fEzVMs9" role="3uHU7w">
+              <node concept="3cpWs3" id="5444fEzXm2r" role="37wK5m">
+                <node concept="Xl_RD" id="5444fEzXmcw" role="3uHU7w">
                   <property role="Xl_RC" value=" Eggs" />
                 </node>
-                <node concept="3cpWs3" id="5444fEzVMdq" role="3uHU7B">
+                <node concept="3cpWs3" id="5444fEzXlLF" role="3uHU7B">
                   <node concept="Xl_RD" id="5444fEzVM4N" role="3uHU7B">
                     <property role="Xl_RC" value="You will need " />
                   </node>
-                  <node concept="37vLTw" id="5444fEzVMeK" role="3uHU7w">
+                  <node concept="37vLTw" id="5444fEzXlTq" role="3uHU7w">
                     <ref role="3cqZAo" node="3qSRC2vScHT" resolve="eggs" />
                   </node>
                 </node>
@@ -1049,43 +1075,29 @@
               <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
             </node>
             <node concept="liA8E" id="5444fEzVWq3" role="2OqNvi">
-              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-              <node concept="3cpWs3" id="5444fEzVWq4" role="37wK5m">
-                <node concept="Xl_RD" id="5444fEzVWq5" role="3uHU7w">
-                  <property role="Xl_RC" value=" Cups of Flour" />
-                </node>
-                <node concept="3cpWs3" id="5444fEzVWq6" role="3uHU7B">
-                  <node concept="Xl_RD" id="5444fEzVWq7" role="3uHU7B">
-                    <property role="Xl_RC" value="You will need " />
-                  </node>
-                  <node concept="37vLTw" id="5444fEzVX0$" role="3uHU7w">
-                    <ref role="3cqZAo" node="3qSRC2vSdeR" resolve="flour" />
-                  </node>
-                </node>
+              <ref role="37wK5l" to="guwi:~PrintStream.printf(java.lang.String,java.lang.Object...):java.io.PrintStream" resolve="printf" />
+              <node concept="Xl_RD" id="5444fEzVWq7" role="37wK5m">
+                <property role="Xl_RC" value="You will need %.2f Cups of Flour\n" />
+              </node>
+              <node concept="37vLTw" id="5444fEzXrwP" role="37wK5m">
+                <ref role="3cqZAo" node="3qSRC2vSdeR" resolve="flour" />
               </node>
             </node>
           </node>
         </node>
-        <node concept="3clFbF" id="5444fEzVWyy" role="3cqZAp">
-          <node concept="2OqwBi" id="5444fEzVWy$" role="3clFbG">
-            <node concept="10M0yZ" id="5444fEzVWy_" role="2Oq$k0">
-              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+        <node concept="3clFbF" id="5444fEzXw37" role="3cqZAp">
+          <node concept="2OqwBi" id="5444fEzXw39" role="3clFbG">
+            <node concept="10M0yZ" id="5444fEzXw3a" role="2Oq$k0">
               <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
             </node>
-            <node concept="liA8E" id="5444fEzVWyA" role="2OqNvi">
-              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-              <node concept="3cpWs3" id="5444fEzVWyB" role="37wK5m">
-                <node concept="Xl_RD" id="5444fEzVWyC" role="3uHU7w">
-                  <property role="Xl_RC" value=" Cups of CocoaPowder" />
-                </node>
-                <node concept="3cpWs3" id="5444fEzVWyD" role="3uHU7B">
-                  <node concept="Xl_RD" id="5444fEzVWyE" role="3uHU7B">
-                    <property role="Xl_RC" value="You will need " />
-                  </node>
-                  <node concept="37vLTw" id="5444fEzVY9S" role="3uHU7w">
-                    <ref role="3cqZAo" node="3qSRC2vSeRQ" resolve="cocoaPowder" />
-                  </node>
-                </node>
+            <node concept="liA8E" id="5444fEzXw3b" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~PrintStream.printf(java.lang.String,java.lang.Object...):java.io.PrintStream" resolve="printf" />
+              <node concept="Xl_RD" id="5444fEzXw3c" role="37wK5m">
+                <property role="Xl_RC" value="You will need %.2f Cups of CocoaPowder\n" />
+              </node>
+              <node concept="37vLTw" id="5444fEzXwBL" role="37wK5m">
+                <ref role="3cqZAo" node="3qSRC2vSeRQ" resolve="cocoaPowder" />
               </node>
             </node>
           </node>
@@ -1100,7 +1112,7 @@
               <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
               <node concept="3cpWs3" id="5444fEzVWGL" role="37wK5m">
                 <node concept="Xl_RD" id="5444fEzVWGM" role="3uHU7w">
-                  <property role="Xl_RC" value=" Cup of Milk" />
+                  <property role="Xl_RC" value=" Cups of Milk" />
                 </node>
                 <node concept="3cpWs3" id="5444fEzVWGN" role="3uHU7B">
                   <node concept="Xl_RD" id="5444fEzVWGO" role="3uHU7B">
@@ -1114,122 +1126,87 @@
             </node>
           </node>
         </node>
-        <node concept="3clFbF" id="5444fEzVYzz" role="3cqZAp">
-          <node concept="2OqwBi" id="5444fEzVYz_" role="3clFbG">
-            <node concept="10M0yZ" id="5444fEzVYzA" role="2Oq$k0">
-              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+        <node concept="3clFbF" id="5444fEzXCOh" role="3cqZAp">
+          <node concept="2OqwBi" id="5444fEzXCOj" role="3clFbG">
+            <node concept="10M0yZ" id="5444fEzXCOk" role="2Oq$k0">
               <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
             </node>
-            <node concept="liA8E" id="5444fEzVYzB" role="2OqNvi">
-              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-              <node concept="3cpWs3" id="5444fEzVYzC" role="37wK5m">
-                <node concept="Xl_RD" id="5444fEzVYzD" role="3uHU7w">
-                  <property role="Xl_RC" value="g of Butter" />
-                </node>
-                <node concept="3cpWs3" id="5444fEzVYzE" role="3uHU7B">
-                  <node concept="Xl_RD" id="5444fEzVYzF" role="3uHU7B">
-                    <property role="Xl_RC" value="You will need " />
-                  </node>
-                  <node concept="37vLTw" id="5444fEzW0Ap" role="3uHU7w">
-                    <ref role="3cqZAo" node="3qSRC2vSgE0" resolve="butter" />
-                  </node>
-                </node>
+            <node concept="liA8E" id="5444fEzXCOl" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~PrintStream.printf(java.lang.String,java.lang.Object...):java.io.PrintStream" resolve="printf" />
+              <node concept="Xl_RD" id="5444fEzXCOm" role="37wK5m">
+                <property role="Xl_RC" value="You will need %.2fg of Butter\n" />
+              </node>
+              <node concept="37vLTw" id="5444fEzXDgR" role="37wK5m">
+                <ref role="3cqZAo" node="3qSRC2vSgE0" resolve="butter" />
               </node>
             </node>
           </node>
         </node>
-        <node concept="3clFbF" id="5444fEzVYGW" role="3cqZAp">
-          <node concept="2OqwBi" id="5444fEzVYGY" role="3clFbG">
-            <node concept="10M0yZ" id="5444fEzVYGZ" role="2Oq$k0">
-              <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+        <node concept="3clFbF" id="5444fEzXHFA" role="3cqZAp">
+          <node concept="2OqwBi" id="5444fEzXHFC" role="3clFbG">
+            <node concept="10M0yZ" id="5444fEzXHFD" role="2Oq$k0">
               <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+              <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
             </node>
-            <node concept="liA8E" id="5444fEzVYH0" role="2OqNvi">
-              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-              <node concept="3cpWs3" id="5444fEzVYH1" role="37wK5m">
-                <node concept="Xl_RD" id="5444fEzVYH2" role="3uHU7w">
-                  <property role="Xl_RC" value=" teaspoon of Vanilla" />
-                </node>
-                <node concept="3cpWs3" id="5444fEzVYH3" role="3uHU7B">
-                  <node concept="Xl_RD" id="5444fEzVYH4" role="3uHU7B">
-                    <property role="Xl_RC" value="You will need " />
-                  </node>
-                  <node concept="37vLTw" id="5444fEzW0VU" role="3uHU7w">
-                    <ref role="3cqZAo" node="3qSRC2vShc4" resolve="vanilla" />
-                  </node>
-                </node>
+            <node concept="liA8E" id="5444fEzXHFE" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~PrintStream.printf(java.lang.String,java.lang.Object...):java.io.PrintStream" resolve="printf" />
+              <node concept="Xl_RD" id="5444fEzXHFF" role="37wK5m">
+                <property role="Xl_RC" value="You will need %.2f teaspoon of Vanilla\n" />
+              </node>
+              <node concept="37vLTw" id="5444fEzXIPh" role="37wK5m">
+                <ref role="3cqZAo" node="3qSRC2vShc4" resolve="vanilla" />
               </node>
             </node>
           </node>
         </node>
-        <node concept="3clFbF" id="5444fEzVYRh" role="3cqZAp">
-          <node concept="2OqwBi" id="5444fEzVYRj" role="3clFbG">
-            <node concept="10M0yZ" id="5444fEzVYRk" role="2Oq$k0">
-              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+        <node concept="3clFbF" id="5444fEzXMdD" role="3cqZAp">
+          <node concept="2OqwBi" id="5444fEzXMdF" role="3clFbG">
+            <node concept="10M0yZ" id="5444fEzXMdG" role="2Oq$k0">
               <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
             </node>
-            <node concept="liA8E" id="5444fEzVYRl" role="2OqNvi">
-              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-              <node concept="3cpWs3" id="5444fEzVYRm" role="37wK5m">
-                <node concept="Xl_RD" id="5444fEzVYRn" role="3uHU7w">
-                  <property role="Xl_RC" value=" teaspoon of Salt" />
-                </node>
-                <node concept="3cpWs3" id="5444fEzVYRo" role="3uHU7B">
-                  <node concept="Xl_RD" id="5444fEzVYRp" role="3uHU7B">
-                    <property role="Xl_RC" value="You will need " />
-                  </node>
-                  <node concept="37vLTw" id="5444fEzW1hr" role="3uHU7w">
-                    <ref role="3cqZAo" node="3qSRC2vSi3v" resolve="salt" />
-                  </node>
-                </node>
+            <node concept="liA8E" id="5444fEzXMdH" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~PrintStream.printf(java.lang.String,java.lang.Object...):java.io.PrintStream" resolve="printf" />
+              <node concept="Xl_RD" id="5444fEzXMdI" role="37wK5m">
+                <property role="Xl_RC" value="You will need %.2f teaspoon of Salt\n" />
+              </node>
+              <node concept="37vLTw" id="5444fEzXMoZ" role="37wK5m">
+                <ref role="3cqZAo" node="3qSRC2vSi3v" resolve="salt" />
               </node>
             </node>
           </node>
         </node>
-        <node concept="3clFbF" id="5444fEzVZ2G" role="3cqZAp">
-          <node concept="2OqwBi" id="5444fEzVZ2I" role="3clFbG">
-            <node concept="10M0yZ" id="5444fEzVZ2J" role="2Oq$k0">
-              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+        <node concept="3clFbF" id="5444fEzXQsV" role="3cqZAp">
+          <node concept="2OqwBi" id="5444fEzXQsX" role="3clFbG">
+            <node concept="10M0yZ" id="5444fEzXQsY" role="2Oq$k0">
               <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
             </node>
-            <node concept="liA8E" id="5444fEzVZ2K" role="2OqNvi">
-              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-              <node concept="3cpWs3" id="5444fEzVZ2L" role="37wK5m">
-                <node concept="Xl_RD" id="5444fEzVZ2M" role="3uHU7w">
-                  <property role="Xl_RC" value=" teaspoon of Baking Soda" />
-                </node>
-                <node concept="3cpWs3" id="5444fEzVZ2N" role="3uHU7B">
-                  <node concept="Xl_RD" id="5444fEzVZ2O" role="3uHU7B">
-                    <property role="Xl_RC" value="You will need " />
-                  </node>
-                  <node concept="37vLTw" id="5444fEzW1B9" role="3uHU7w">
-                    <ref role="3cqZAo" node="3qSRC2vSiMz" resolve="bakingSoda" />
-                  </node>
-                </node>
+            <node concept="liA8E" id="5444fEzXQsZ" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~PrintStream.printf(java.lang.String,java.lang.Object...):java.io.PrintStream" resolve="printf" />
+              <node concept="Xl_RD" id="5444fEzXQt0" role="37wK5m">
+                <property role="Xl_RC" value="You will need %.2f teaspoon of Baking Soda\n" />
+              </node>
+              <node concept="37vLTw" id="5444fEzXQUV" role="37wK5m">
+                <ref role="3cqZAo" node="3qSRC2vSiMz" resolve="bakingSoda" />
               </node>
             </node>
           </node>
         </node>
-        <node concept="3clFbF" id="5444fEzVZly" role="3cqZAp">
-          <node concept="2OqwBi" id="5444fEzVZl$" role="3clFbG">
-            <node concept="10M0yZ" id="5444fEzVZl_" role="2Oq$k0">
-              <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+        <node concept="3clFbF" id="5444fEzXRMZ" role="3cqZAp">
+          <node concept="2OqwBi" id="5444fEzXRN1" role="3clFbG">
+            <node concept="10M0yZ" id="5444fEzXRN2" role="2Oq$k0">
               <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+              <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
             </node>
-            <node concept="liA8E" id="5444fEzVZlA" role="2OqNvi">
-              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-              <node concept="3cpWs3" id="5444fEzVZlB" role="37wK5m">
-                <node concept="Xl_RD" id="5444fEzVZlC" role="3uHU7w">
-                  <property role="Xl_RC" value=" Cup of Food Coloring" />
-                </node>
-                <node concept="3cpWs3" id="5444fEzVZlD" role="3uHU7B">
-                  <node concept="Xl_RD" id="5444fEzVZlE" role="3uHU7B">
-                    <property role="Xl_RC" value="You will need " />
-                  </node>
-                  <node concept="37vLTw" id="5444fEzW2aK" role="3uHU7w">
-                    <ref role="3cqZAo" node="3qSRC2vSjl2" resolve="foodColoring" />
-                  </node>
-                </node>
+            <node concept="liA8E" id="5444fEzXRN3" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~PrintStream.printf(java.lang.String,java.lang.Object...):java.io.PrintStream" resolve="printf" />
+              <node concept="Xl_RD" id="5444fEzXRN4" role="37wK5m">
+                <property role="Xl_RC" value="You will need %.2f Cups of Food Coloring" />
+              </node>
+              <node concept="37vLTw" id="5444fEzXRY_" role="37wK5m">
+                <ref role="3cqZAo" node="3qSRC2vSjl2" resolve="foodColoring" />
               </node>
             </node>
           </node>
