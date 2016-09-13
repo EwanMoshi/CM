@@ -12,6 +12,22 @@
         <modelRoot contentPath="${module}" type="default">
           <sourceRoot path="${module}/generator/template" />
         </modelRoot>
+        <modelRoot contentPath="${module}" type="java_classes">
+          <sourceRoot location="libs/AppleJavaExtensions.jar" />
+          <sourceRoot location="libs/lzma.jar" />
+          <sourceRoot location="libs/lwjgl-debug.jar" />
+          <sourceRoot location="libs/lwjgl_test.jar" />
+          <sourceRoot location="libs/substance-7.2.1.jar" />
+          <sourceRoot location="libs/jinput.jar" />
+          <sourceRoot location="libs/lwjgl.jar" />
+          <sourceRoot location="libs/trident-7.2.1.jar" />
+          <sourceRoot location="libs/lwjgl_util.jar" />
+          <sourceRoot location="libs/laf-widget-7.2.1.jar" />
+          <sourceRoot location="libs/lwjgl_util_applet.jar" />
+          <sourceRoot location="libs/asm-debug-all.jar" />
+          <sourceRoot location="libs/laf-plugin-7.2.1.jar" />
+          <sourceRoot location="libs/log4j-api-2.0-beta9.jar" />
+        </modelRoot>
       </models>
       <external-templates />
       <dependencies>

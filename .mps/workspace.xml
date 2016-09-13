@@ -7,14 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265a7c14-9f78-48b6-ab55-69ee6e11b277" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/modules.xml" afterPath="$PROJECT_DIR$/.mps/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/CM.mpl" afterPath="$PROJECT_DIR$/languages/CM/CM.mpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/CM/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" afterPath="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/classes_gen/CM/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/CM/sandbox/classes_gen/CM/sandbox/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/generated" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/testCake.java" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/testCake.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/generated" afterPath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/generated" />
@@ -55,19 +54,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cake" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cake" pinned="false" current-in-tab="false">
         <entry file="mps://node://CM/CM.structure/Cake">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="1063">
+              <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="28" />
-                    <property name="caretX" value="151" />
+                    <property name="caretXRelative" value="8" />
+                    <property name="caretX" value="255" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="methodName" cellNumber="0" isInList="false">
-                      <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542553251" />
+                    <cellInfo cellId="Constant_2sbeba_j0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782358905" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -79,7 +78,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542553251" viewPositionX="0" viewPositionY="-8">
+              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="-8">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -111,7 +110,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542553251" viewPositionX="0" viewPositionY="-8">
+              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="-8">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -122,7 +121,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testCake" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testCake" pinned="false" current-in-tab="true">
         <entry file="mps://node://CM.sandbox/CM.sandbox/testCake">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -131,9 +130,9 @@
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
                     <property name="caretXRelative" value="12" />
-                    <property name="caretX" value="71" />
+                    <property name="caretX" value="79" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_size" cellNumber="0" isInList="false">
+                    <cellInfo cellId="property_level" cellNumber="0" isInList="false">
                       <node node_reference="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" />
                     </cellInfo>
                   </stackElement>
@@ -142,13 +141,22 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542553251" viewPositionX="0" viewPositionY="-8">
+              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="-8">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
                 <collapsed />
                 <enabledHints />
               </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testCake.java" pinned="false" current-in-tab="false">
+        <entry file="previewCM.sandbox@0/testCake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -259,12 +267,42 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="all models" />
+              <option name="myItemId" value="CM#3943146117781706990" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -314,26 +352,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -352,31 +370,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CM#3943146117781706990" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CM" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -387,6 +381,18 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/sandbox/models/CM/sandbox.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3943146117781752069" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -401,7 +407,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Java Application.Class map_Cake">
+  <component name="RunManager" selected="Java Application.Node testCake">
     <configuration default="false" name="Tests in 'CM'" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
       <MyState />
       <myJUnitSettings>
@@ -605,8 +611,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33751568" sideWeight="0.46666667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33751568" sideWeight="0.46666667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -616,7 +622,7 @@
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39948782" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3199498" sideWeight="0.44236112" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3199498" sideWeight="0.44236112" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -655,7 +661,8 @@
     <MESSAGE value="added constraint for size - subsequent tier sizes must be smaller" />
     <MESSAGE value="added generator for transformation" />
     <MESSAGE value="transformation for tiers complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="transformation for tiers complete" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://node://CM/CM.structure/Cake">
@@ -1801,7 +1808,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542553251" viewPositionX="0" viewPositionY="-8">
+          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="-8">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1904,15 +1911,15 @@
     <entry file="mps://node://CM/CM.structure/Cake">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="1063">
+          <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="28" />
-                <property name="caretX" value="151" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="255" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="methodName" cellNumber="0" isInList="false">
-                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542553251" />
+                <cellInfo cellId="Constant_2sbeba_j0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782358905" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1924,7 +1931,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542553251" viewPositionX="0" viewPositionY="-8">
+          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="-8">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -2062,9 +2069,9 @@
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
                 <property name="caretXRelative" value="12" />
-                <property name="caretX" value="71" />
+                <property name="caretX" value="79" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_size" cellNumber="0" isInList="false">
+                <cellInfo cellId="property_level" cellNumber="0" isInList="false">
                   <node node_reference="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" />
                 </cellInfo>
               </stackElement>
@@ -2073,7 +2080,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542553251" viewPositionX="0" viewPositionY="-8">
+          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" viewPositionX="0" viewPositionY="-8">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />

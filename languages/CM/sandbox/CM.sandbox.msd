@@ -5,7 +5,25 @@
       <sourceRoot location="models" />
     </modelRoot>
   </models>
-  <sourcePath />
+  <stubModelEntries>
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/AppleJavaExtensions.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/laf-widget-7.2.1.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/trident-7.2.1.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/lwjgl_util.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/jinput.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/asm-debug-all.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/lwjgl_util_applet.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/lwjgl_test.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/laf-plugin-7.2.1.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/log4j-api-2.0-beta9.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/lzma.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/substance-7.2.1.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/lwjgl.jar" />
+    <stubModelEntry path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/lwjgl-debug.jar" />
+  </stubModelEntries>
+  <sourcePath>
+    <source path="C:/Users/Ewan/MPSProjects/CM/languages/CM/libs/windows" />
+  </sourcePath>
   <languageVersions>
     <language id="302ba974-9330-456c-8ab1-41e68cf0c655" fqName="CM" version="-1" />
     <language id="f3061a53-9226-4cc5-a443-f952ceaf5816" fqName="jetbrains.mps.baseLanguage" version="4" />
