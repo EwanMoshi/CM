@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
   <dependency className="CM.sandbox.testCake" file="testCake.java">
+    <classNode dependClassName="CM.sandbox.testingnewclasses" />
     <classNode dependClassName="java.lang.Math" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.lang.System" />

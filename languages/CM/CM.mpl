@@ -7,7 +7,7 @@
   </models>
   <accessoryModels />
   <generators>
-    <generator generatorUID="CM#3943146117781706990" uuid="013d4542-40cb-4a41-8130-f934667626b2">
+    <generator name="" generatorUID="CM#3943146117781706990" uuid="013d4542-40cb-4a41-8130-f934667626b2">
       <models>
         <modelRoot contentPath="${module}" type="default">
           <sourceRoot path="${module}/generator/template" />

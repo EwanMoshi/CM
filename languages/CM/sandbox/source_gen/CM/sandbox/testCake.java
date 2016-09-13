@@ -23,8 +23,8 @@ public class testCake {
 
     String bottom = "chocolate";
     String top = "redvelvet";
-    double bottomSize = 10;
-    double topSize = 30;
+    double bottomSize = 4;
+    double topSize = 1;
     if (bottom.equalsIgnoreCase("chocolate")) {
       createChocolateTier(bottomSize);
     } else if (bottom.equalsIgnoreCase("redvelvet")) {
@@ -50,6 +50,7 @@ public class testCake {
     this.bakingSoda += 2 * (size / 10);
     this.flour += 3 * (size / 10);
     this.butter += 1 * (size / 10);
+    this.milk += 1;
   }
 
   public void createRedVelvetTier(double size) {
@@ -62,18 +63,20 @@ public class testCake {
     this.bakingSoda += 1 * (size / 10);
     this.flour += 2.5 * (size / 10);
     this.butter += 0.5 * (size / 10);
+    this.milk += 1;
   }
 
   public void Bake() {
+    testingnewclasses a = new testingnewclasses();
     System.out.println("You will need " + eggs + " Eggs");
-    System.out.println("You will need " + flour + " Cups of Flour");
-    System.out.println("You will need " + cocoaPowder + " Cups of CocoaPowder");
-    System.out.println("You will need " + milk + " Cup of Milk");
-    System.out.println("You will need " + butter + "g of Butter");
-    System.out.println("You will need " + vanilla + " teaspoon of Vanilla");
-    System.out.println("You will need " + salt + " teaspoon of Salt");
-    System.out.println("You will need " + bakingSoda + " teaspoon of Baking Soda");
-    System.out.println("You will need " + foodColoring + " Cup of Food Coloring");
+    System.out.printf("You will need %.2f Cups of Flour\n", flour);
+    System.out.printf("You will need %.2f Cups of CocoaPowder\n", cocoaPowder);
+    System.out.println("You will need " + milk + " Cups of Milk");
+    System.out.printf("You will need %.2fg of Butter\n", butter);
+    System.out.printf("You will need %.2f teaspoon of Vanilla\n", vanilla);
+    System.out.printf("You will need %.2f teaspoon of Salt\n", salt);
+    System.out.printf("You will need %.2f teaspoon of Baking Soda\n", bakingSoda);
+    System.out.printf("You will need %.2f Cups of Food Coloring", foodColoring);
   }
 
   public static void main(String[] args) {
@@ -81,7 +84,6 @@ public class testCake {
     cake.createTier();
     // cake.createDecorations(); 
     // ... 
-
     cake.Bake();
   }
 }

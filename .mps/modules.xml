@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/CM/CM.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/LWJGL/LWJGL.msd" folder="" />
     </projectModules>
   </component>
 </project>
