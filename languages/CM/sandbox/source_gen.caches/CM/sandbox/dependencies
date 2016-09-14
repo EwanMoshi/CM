@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
   <dependency className="CM.sandbox.testCake" file="testCake.java">
+    <classNode dependClassName="CM.test.Display" />
+    <classNode dependClassName="CM.test.Entity" />
+    <classNode dependClassName="CM.test.Loader" />
+    <classNode dependClassName="CM.test.MTexture" />
+    <classNode dependClassName="CM.test.RawModel" />
+    <classNode dependClassName="CM.test.Renderer" />
+    <classNode dependClassName="CM.test.Shader" />
+    <classNode dependClassName="CM.test.TModel" />
     <classNode dependClassName="java.lang.Math" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.lang.System" />
-    <classNode dependClassName="org.lwjgl.LWJGLException" />
-    <classNode dependClassName="org.lwjgl.opengl.ContextAttribs" />
     <classNode dependClassName="org.lwjgl.opengl.Display" />
-    <classNode dependClassName="org.lwjgl.opengl.DisplayMode" />
-    <classNode dependClassName="org.lwjgl.opengl.GL11" />
-    <classNode dependClassName="org.lwjgl.opengl.PixelFormat" />
+    <classNode dependClassName="org.lwjgl.util.vector.Vector3f" />
   </dependency>
 </dependenciesRoot>
 
