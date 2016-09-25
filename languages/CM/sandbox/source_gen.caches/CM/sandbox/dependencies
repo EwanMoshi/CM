@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
   <dependency className="CM.sandbox.testCake" file="testCake.java">
+    <classNode dependClassName="CM.test.Cam" />
     <classNode dependClassName="CM.test.Display" />
     <classNode dependClassName="CM.test.Entity" />
     <classNode dependClassName="CM.test.Loader" />
     <classNode dependClassName="CM.test.MTexture" />
+    <classNode dependClassName="CM.test.ModelLoader" />
     <classNode dependClassName="CM.test.RawModel" />
     <classNode dependClassName="CM.test.Renderer" />
     <classNode dependClassName="CM.test.Shader" />

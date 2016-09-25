@@ -17,4 +17,16 @@ public class Maths {
     Matrix4f.scale(new Vector3f(scale, scale, scale), m, m);
     return m;
   }
+
+  public static Matrix4f createViewMatrix(Cam cam) {
+    Matrix4f m = new Matrix4f();
+    m.setIdentity();
+    Matrix4f.rotate((float) Math.toRadians(cam.getPitch()), new Vector3f(1, 0, 0), m, m);
+    Matrix4f.rotate((float) Math.toRadians(cam.getYaw()), new Vector3f(0, 1, 0), m, m);
+    Vector3f camPos = cam.getPos();
+    Vector3f negCamPos = new Vector3f(-camPos.x, -camPos.y, -camPos.z);
+    Matrix4f.translate(negCamPos, m, m);
+    return m;
+  }
+
 }

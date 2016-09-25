@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BreakStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ContinueStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
@@ -16,20 +19,20 @@
   <concept fqn="jetbrains.mps.baseLanguage.structure.WhileStatement" />
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921146111">
     <file name="Display.java">
-      <node id="2980444369921173395" at="15,38,16,107" concept="6" />
-      <node id="2980444369921173407" at="16,107,17,37" concept="1" />
-      <node id="2980444369921173412" at="17,37,18,0" concept="8" />
-      <node id="2980444369921173415" at="19,9,20,74" concept="1" />
-      <node id="2980444369921173421" at="20,74,21,69" concept="1" />
-      <node id="2980444369921173430" at="23,5,24,0" concept="8" />
-      <node id="2980444369921173431" at="24,0,25,37" concept="1" />
-      <node id="2980444369921173723" at="28,38,29,39" concept="1" />
-      <node id="2980444369921173726" at="29,39,30,38" concept="1" />
-      <node id="2980444369921173847" at="34,37,35,39" concept="1" />
-      <node id="2980444369921173844" at="34,0,37,0" concept="10" trace="closeDisplay#()V" />
-      <node id="2980444369921173720" at="28,0,32,0" concept="10" trace="updateDisplay#()V" />
-      <node id="2980444369921173413" at="18,0,23,5" concept="12" />
-      <node id="2980444369921173390" at="15,0,27,0" concept="10" trace="createDisplay#()V" />
+      <node id="2980444369921173395" at="15,38,16,107" concept="9" />
+      <node id="2980444369921173407" at="16,107,17,37" concept="3" />
+      <node id="2980444369921173412" at="17,37,18,0" concept="11" />
+      <node id="2980444369921173415" at="19,9,20,74" concept="3" />
+      <node id="2980444369921173421" at="20,74,21,69" concept="3" />
+      <node id="2980444369921173430" at="23,5,24,0" concept="11" />
+      <node id="2980444369921173431" at="24,0,25,37" concept="3" />
+      <node id="2980444369921173723" at="28,38,29,39" concept="3" />
+      <node id="2980444369921173726" at="29,39,30,38" concept="3" />
+      <node id="2980444369921173847" at="34,37,35,39" concept="3" />
+      <node id="2980444369921173844" at="34,0,37,0" concept="13" trace="closeDisplay#()V" />
+      <node id="2980444369921173720" at="28,0,32,0" concept="13" trace="updateDisplay#()V" />
+      <node id="2980444369921173413" at="18,0,23,5" concept="15" />
+      <node id="2980444369921173390" at="15,0,27,0" concept="13" trace="createDisplay#()V" />
       <scope id="2980444369921173426" at="22,0,22,32">
         <var name="e" id="2980444369921173428" />
       </scope>
@@ -48,50 +51,88 @@
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921191523">
     <file name="Renderer.java">
-      <node id="2980444369920676599" at="13,25,14,43" concept="1" />
-      <node id="2980444369920676539" at="14,43,15,34" concept="1" />
-      <node id="2980444369921376805" at="18,42,19,32" concept="6" />
-      <node id="2980444369920677603" at="19,32,20,59" concept="1" />
-      <node id="2980444369920677874" at="20,59,21,38" concept="1" />
-      <node id="2980444369922313927" at="21,38,22,38" concept="1" />
-      <node id="2980444369922355639" at="22,38,23,124" concept="6" />
-      <node id="2980444369922425441" at="23,124,24,48" concept="1" />
-      <node id="2980444369922422357" at="24,48,25,0" concept="8" />
-      <node id="2980444369922315803" at="25,0,26,43" concept="1" />
-      <node id="2980444369922316638" at="26,43,27,71" concept="1" />
-      <node id="2980444369922315620" at="27,71,28,0" concept="8" />
-      <node id="2980444369921321716" at="28,0,29,106" concept="1" />
-      <node id="2980444369922315112" at="29,106,30,0" concept="8" />
-      <node id="2980444369920678601" at="30,0,31,39" concept="1" />
-      <node id="2980444369922314406" at="31,39,32,39" concept="1" />
-      <node id="2980444369922315281" at="32,39,33,0" concept="8" />
-      <node id="2980444369920678893" at="33,0,34,30" concept="1" />
-      <node id="2980444369920676514" at="13,0,17,0" concept="5" trace="prepare#()V" />
-      <node id="2980444369920677325" at="18,0,36,0" concept="5" trace="render#(LCM/test/Entity;LCM/test/Shader;)V" />
-      <scope id="2980444369920676517" at="13,25,15,34" />
-      <scope id="2980444369920676514" at="13,0,17,0" />
-      <scope id="2980444369920677328" at="18,42,34,30">
-        <var name="model" id="2980444369921376806" />
-        <var name="transformMatrix" id="2980444369922355640" />
+      <node id="8095760443531746887" at="14,0,15,0" concept="4" trace="projMatrix" />
+      <node id="8095760443531747267" at="15,0,16,0" concept="12" trace="FOV" />
+      <node id="8095760443531748135" at="16,0,17,0" concept="12" trace="nearPlane" />
+      <node id="8095760443531748713" at="17,0,18,0" concept="12" trace="farPlane" />
+      <node id="8095760443531802814" at="19,29,20,29" concept="3" />
+      <node id="8095760443531802968" at="20,29,21,14" concept="3" />
+      <node id="8095760443531803106" at="21,14,22,33" concept="3" />
+      <node id="8095760443531803396" at="22,33,23,13" concept="3" />
+      <node id="8095760443532106563" at="26,25,27,38" concept="3" />
+      <node id="2980444369920676599" at="27,38,28,70" concept="3" />
+      <node id="2980444369920676539" at="28,70,29,34" concept="3" />
+      <node id="8095760443531754034" at="32,41,33,85" concept="9" />
+      <node id="8095760443531754831" at="33,85,34,81" concept="9" />
+      <node id="8095760443531761412" at="34,81,35,40" concept="9" />
+      <node id="8095760443531762185" at="35,40,36,47" concept="9" />
+      <node id="8095760443531762718" at="36,47,37,0" concept="11" />
+      <node id="8095760443531763049" at="37,0,38,32" concept="3" />
+      <node id="8095760443531782427" at="38,32,39,28" concept="3" />
+      <node id="8095760443531784162" at="39,28,40,28" concept="3" />
+      <node id="8095760443531786069" at="40,28,41,63" concept="3" />
+      <node id="8095760443531789747" at="41,63,42,24" concept="3" />
+      <node id="8095760443531792139" at="42,24,43,67" concept="3" />
+      <node id="8095760443531796747" at="43,67,44,23" concept="3" />
+      <node id="8095760443531755336" at="44,23,45,0" concept="11" />
+      <node id="2980444369921376805" at="48,42,49,32" concept="9" />
+      <node id="4240159451813218934" at="49,32,50,39" concept="9" />
+      <node id="2980444369920677603" at="50,39,51,59" concept="3" />
+      <node id="2980444369920677874" at="51,59,52,38" concept="3" />
+      <node id="2980444369922313927" at="52,38,53,38" concept="3" />
+      <node id="4240159451813214950" at="53,38,54,0" concept="11" />
+      <node id="4240159451813201367" at="54,0,55,116" concept="9" />
+      <node id="4240159451813203970" at="55,116,56,40" concept="3" />
+      <node id="2980444369922422357" at="56,40,57,0" concept="11" />
+      <node id="2980444369922315803" at="57,0,58,43" concept="3" />
+      <node id="2980444369922316638" at="58,43,59,71" concept="3" />
+      <node id="2980444369922315620" at="59,71,60,0" concept="11" />
+      <node id="2980444369921321716" at="60,0,61,90" concept="3" />
+      <node id="2980444369922315112" at="61,90,62,0" concept="11" />
+      <node id="2980444369920678601" at="62,0,63,39" concept="3" />
+      <node id="2980444369922314406" at="63,39,64,39" concept="3" />
+      <node id="2980444369922315281" at="64,39,65,0" concept="11" />
+      <node id="2980444369920678893" at="65,0,66,30" concept="3" />
+      <node id="2980444369920676514" at="26,0,31,0" concept="8" trace="prepare#()V" />
+      <node id="8095760443531802091" at="19,0,25,0" concept="1" trace="Renderer#(LCM/test/Shader;)V" />
+      <node id="8095760443531749300" at="32,0,47,0" concept="8" trace="createProjectionMatrix#()V" />
+      <node id="2980444369920677325" at="48,0,68,0" concept="8" trace="render#(LCM/test/Entity;LCM/test/Shader;)V" />
+      <scope id="2980444369920676517" at="26,25,29,34" />
+      <scope id="8095760443531802094" at="19,29,23,13" />
+      <scope id="2980444369920676514" at="26,0,31,0" />
+      <scope id="8095760443531802091" at="19,0,25,0">
+        <var name="s" id="8095760443531802929" />
       </scope>
-      <scope id="2980444369920677325" at="18,0,36,0">
+      <scope id="8095760443531749303" at="32,41,45,0">
+        <var name="aspectRatio" id="8095760443531754037" />
+        <var name="frustumLength" id="8095760443531762188" />
+        <var name="xScale" id="8095760443531761415" />
+        <var name="yScale" id="8095760443531754834" />
+      </scope>
+      <scope id="8095760443531749300" at="32,0,47,0" />
+      <scope id="2980444369920677328" at="48,42,66,30">
+        <var name="model" id="2980444369921376806" />
+        <var name="raw" id="4240159451813218935" />
+        <var name="tMatrix" id="4240159451813201368" />
+      </scope>
+      <scope id="2980444369920677325" at="48,0,68,0">
         <var name="e" id="2980444369920677354" />
         <var name="s" id="2980444369922352938" />
       </scope>
-      <unit id="2980444369921191523" at="11,0,38,0" name="CM.test.Renderer" />
+      <unit id="2980444369921191523" at="12,0,70,0" name="CM.test.Renderer" />
     </file>
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921193112">
     <file name="RawModel.java">
-      <node id="2980444369920525891" at="8,0,9,0" concept="2" trace="vertexCount" />
-      <node id="2980444369920525833" at="9,0,10,0" concept="2" trace="vaoID" />
-      <node id="2980444369920526100" at="11,47,12,23" concept="1" />
-      <node id="2980444369920543877" at="12,23,13,35" concept="1" />
-      <node id="2980444369920545144" at="16,25,17,17" concept="7" />
-      <node id="2980444369920545694" at="20,31,21,23" concept="7" />
-      <node id="2980444369920544942" at="16,0,19,0" concept="5" trace="getVaoID#()I" />
-      <node id="2980444369920545551" at="20,0,23,0" concept="5" trace="getVertexCount#()I" />
-      <node id="2980444369920526006" at="11,0,15,0" concept="0" trace="RawModel#(II)V" />
+      <node id="2980444369920525891" at="8,0,9,0" concept="4" trace="vertexCount" />
+      <node id="2980444369920525833" at="9,0,10,0" concept="4" trace="vaoID" />
+      <node id="2980444369920526100" at="11,47,12,23" concept="3" />
+      <node id="2980444369920543877" at="12,23,13,35" concept="3" />
+      <node id="2980444369920545144" at="16,25,17,17" concept="10" />
+      <node id="2980444369920545694" at="20,31,21,23" concept="10" />
+      <node id="2980444369920544942" at="16,0,19,0" concept="8" trace="getVaoID#()I" />
+      <node id="2980444369920545551" at="20,0,23,0" concept="8" trace="getVertexCount#()I" />
+      <node id="2980444369920526006" at="11,0,15,0" concept="1" trace="RawModel#(II)V" />
       <scope id="2980444369920544945" at="16,25,17,17" />
       <scope id="2980444369920545554" at="20,31,21,23" />
       <scope id="2980444369920526009" at="11,47,13,35" />
@@ -106,64 +147,64 @@
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921197337">
     <file name="Loader.java">
-      <node id="2980444369921691238" at="21,0,22,0" concept="2" trace="textures" />
-      <node id="2980444369920622490" at="22,0,23,0" concept="2" trace="vbos" />
-      <node id="2980444369920625008" at="23,0,24,0" concept="2" trace="vaos" />
-      <node id="2980444369920581994" at="27,27,28,41" concept="6" />
-      <node id="2980444369920653380" at="28,41,29,20" concept="1" />
-      <node id="2980444369920582136" at="29,20,30,34" concept="1" />
-      <node id="2980444369920582331" at="30,34,31,17" concept="7" />
-      <node id="2980444369920559197" at="34,76,35,28" concept="6" />
-      <node id="2980444369921314048" at="35,28,36,31" concept="1" />
-      <node id="2980444369920559305" at="36,31,37,40" concept="1" />
-      <node id="2980444369922310550" at="37,40,38,46" concept="1" />
-      <node id="2980444369922309451" at="38,46,39,0" concept="8" />
-      <node id="2980444369920559899" at="39,0,40,16" concept="1" />
-      <node id="2980444369920560153" at="40,16,41,47" concept="7" />
-      <node id="2980444369920582645" at="44,91,45,36" concept="6" />
-      <node id="2980444369920655787" at="45,36,46,20" concept="1" />
-      <node id="2980444369920582765" at="46,20,47,51" concept="1" />
-      <node id="2980444369920602453" at="47,51,48,54" concept="6" />
-      <node id="2980444369920602683" at="48,54,49,73" concept="1" />
-      <node id="2980444369920605067" at="49,73,50,87" concept="1" />
-      <node id="2980444369920606440" at="50,87,51,47" concept="1" />
-      <node id="2980444369920582568" at="55,28,56,30" concept="1" />
-      <node id="2980444369920600271" at="59,60,60,68" concept="6" />
-      <node id="2980444369920600573" at="60,68,61,21" concept="1" />
-      <node id="2980444369920601300" at="61,21,62,18" concept="1" />
-      <node id="2980444369920602029" at="62,18,63,18" concept="7" />
-      <node id="2980444369920663978" at="67,26,68,37" concept="1" />
-      <node id="2980444369920665479" at="70,26,71,32" concept="1" />
-      <node id="2980444369921699062" at="73,28,74,31" concept="1" />
-      <node id="2980444369921299066" at="78,49,79,36" concept="6" />
-      <node id="2980444369921299188" at="79,36,80,20" concept="1" />
-      <node id="2980444369921300473" at="80,20,81,59" concept="1" />
-      <node id="2980444369921310894" at="81,59,82,51" concept="6" />
-      <node id="2980444369921311502" at="82,51,83,81" concept="1" />
-      <node id="2980444369921307479" at="86,52,87,64" concept="6" />
-      <node id="2980444369921308173" at="87,64,88,21" concept="1" />
-      <node id="2980444369921307822" at="88,21,89,18" concept="1" />
-      <node id="2980444369921308622" at="89,18,90,18" concept="7" />
-      <node id="2980444369921649947" at="93,35,94,23" concept="6" />
-      <node id="2980444369921682664" at="95,9,96,75" concept="6" />
-      <node id="2980444369921801044" at="96,75,97,47" concept="1" />
-      <node id="2980444369921654427" at="98,29,99,26" concept="1" />
-      <node id="2980444369921660054" at="100,5,101,35" concept="6" />
-      <node id="2980444369921694802" at="101,35,102,24" concept="1" />
-      <node id="2980444369921660883" at="102,24,103,17" concept="7" />
-      <node id="2980444369920559149" at="55,0,58,0" concept="5" trace="unbindVAO#()V" />
-      <node id="2980444369920662059" at="66,25,69,5" concept="3" />
-      <node id="2980444369920664408" at="69,5,72,5" concept="3" />
-      <node id="2980444369921697743" at="72,5,75,5" concept="3" />
-      <node id="2980444369920558873" at="27,0,33,0" concept="5" trace="createVAO#()I" />
-      <node id="2980444369920599847" at="59,0,65,0" concept="5" trace="storeDataInFloatBuffer#([F)Ljava/nio/FloatBuffer;" />
-      <node id="2980444369921305638" at="86,0,92,0" concept="5" trace="storeDataIntBuffer#([I)Ljava/nio/IntBuffer;" />
-      <node id="2980444369921654028" at="94,23,100,5" concept="12" />
-      <node id="2980444369921295927" at="78,0,85,0" concept="5" trace="bindIndicesBuffer#([I)V" />
-      <node id="2980444369920558791" at="34,0,43,0" concept="5" trace="loadtoVAO#([F[I[F)LCM/test/RawModel;" />
-      <node id="2980444369920558957" at="44,0,53,0" concept="5" trace="storeDataInAttributeList#(I[FI)V" />
-      <node id="2980444369920661449" at="66,0,77,0" concept="5" trace="cleanUp#()V" />
-      <node id="2980444369921630233" at="93,0,105,0" concept="5" trace="loadTex#(Ljava/lang/String;)I" />
+      <node id="2980444369921691238" at="21,0,22,0" concept="4" trace="textures" />
+      <node id="2980444369920622490" at="22,0,23,0" concept="4" trace="vbos" />
+      <node id="2980444369920625008" at="23,0,24,0" concept="4" trace="vaos" />
+      <node id="2980444369920581994" at="27,27,28,41" concept="9" />
+      <node id="2980444369920653380" at="28,41,29,20" concept="3" />
+      <node id="2980444369920582136" at="29,20,30,34" concept="3" />
+      <node id="2980444369920582331" at="30,34,31,17" concept="10" />
+      <node id="2980444369920559197" at="34,76,35,28" concept="9" />
+      <node id="2980444369921314048" at="35,28,36,31" concept="3" />
+      <node id="2980444369920559305" at="36,31,37,40" concept="3" />
+      <node id="2980444369922310550" at="37,40,38,46" concept="3" />
+      <node id="2980444369922309451" at="38,46,39,0" concept="11" />
+      <node id="2980444369920559899" at="39,0,40,16" concept="3" />
+      <node id="2980444369920560153" at="40,16,41,47" concept="10" />
+      <node id="2980444369920582645" at="44,91,45,36" concept="9" />
+      <node id="2980444369920655787" at="45,36,46,20" concept="3" />
+      <node id="2980444369920582765" at="46,20,47,51" concept="3" />
+      <node id="2980444369920602453" at="47,51,48,54" concept="9" />
+      <node id="2980444369920602683" at="48,54,49,73" concept="3" />
+      <node id="2980444369920605067" at="49,73,50,87" concept="3" />
+      <node id="2980444369920606440" at="50,87,51,47" concept="3" />
+      <node id="2980444369920582568" at="55,28,56,30" concept="3" />
+      <node id="2980444369920600271" at="59,60,60,68" concept="9" />
+      <node id="2980444369920600573" at="60,68,61,21" concept="3" />
+      <node id="2980444369920601300" at="61,21,62,18" concept="3" />
+      <node id="2980444369920602029" at="62,18,63,18" concept="10" />
+      <node id="2980444369920663978" at="67,26,68,37" concept="3" />
+      <node id="2980444369920665479" at="70,26,71,32" concept="3" />
+      <node id="2980444369921699062" at="73,28,74,31" concept="3" />
+      <node id="2980444369921299066" at="78,49,79,36" concept="9" />
+      <node id="2980444369921299188" at="79,36,80,20" concept="3" />
+      <node id="2980444369921300473" at="80,20,81,59" concept="3" />
+      <node id="2980444369921310894" at="81,59,82,51" concept="9" />
+      <node id="2980444369921311502" at="82,51,83,81" concept="3" />
+      <node id="2980444369921307479" at="86,52,87,64" concept="9" />
+      <node id="2980444369921308173" at="87,64,88,21" concept="3" />
+      <node id="2980444369921307822" at="88,21,89,18" concept="3" />
+      <node id="2980444369921308622" at="89,18,90,18" concept="10" />
+      <node id="2980444369921649947" at="93,35,94,23" concept="9" />
+      <node id="2980444369921682664" at="95,9,96,75" concept="9" />
+      <node id="2980444369921801044" at="96,75,97,47" concept="3" />
+      <node id="2980444369921654427" at="98,29,99,26" concept="3" />
+      <node id="2980444369921660054" at="100,5,101,35" concept="9" />
+      <node id="2980444369921694802" at="101,35,102,24" concept="3" />
+      <node id="2980444369921660883" at="102,24,103,17" concept="10" />
+      <node id="2980444369920559149" at="55,0,58,0" concept="8" trace="unbindVAO#()V" />
+      <node id="2980444369920662059" at="66,25,69,5" concept="6" />
+      <node id="2980444369920664408" at="69,5,72,5" concept="6" />
+      <node id="2980444369921697743" at="72,5,75,5" concept="6" />
+      <node id="2980444369920558873" at="27,0,33,0" concept="8" trace="createVAO#()I" />
+      <node id="2980444369920599847" at="59,0,65,0" concept="8" trace="storeDataInFloatBuffer#([F)Ljava/nio/FloatBuffer;" />
+      <node id="2980444369921305638" at="86,0,92,0" concept="8" trace="storeDataIntBuffer#([I)Ljava/nio/IntBuffer;" />
+      <node id="2980444369921654028" at="94,23,100,5" concept="15" />
+      <node id="2980444369921295927" at="78,0,85,0" concept="8" trace="bindIndicesBuffer#([I)V" />
+      <node id="2980444369920558791" at="34,0,43,0" concept="8" trace="loadtoVAO#([F[I[F)LCM/test/RawModel;" />
+      <node id="2980444369920558957" at="44,0,53,0" concept="8" trace="storeDataInAttributeList#(I[FI)V" />
+      <node id="2980444369920661449" at="66,0,77,0" concept="8" trace="cleanUp#()V" />
+      <node id="2980444369921630233" at="93,0,105,0" concept="8" trace="loadTex#(Ljava/lang/String;)I" />
       <scope id="2980444369920559152" at="55,28,56,30" />
       <scope id="2980444369920662062" at="67,26,68,37" />
       <scope id="2980444369920664410" at="70,26,71,32" />
@@ -239,39 +280,39 @@
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921351914">
     <file name="Entity.java">
-      <node id="2980444369921354504" at="9,0,10,0" concept="2" trace="model" />
-      <node id="2980444369921353870" at="10,0,11,0" concept="2" trace="pos" />
-      <node id="2980444369921353918" at="11,0,12,0" concept="2" trace="rotX" />
-      <node id="2980444369921353964" at="12,0,13,0" concept="2" trace="rotY" />
-      <node id="2980444369921354013" at="13,0,14,0" concept="2" trace="rotZ" />
-      <node id="2980444369921354071" at="14,0,15,0" concept="2" trace="scale" />
-      <node id="2980444369921354338" at="16,94,17,23" concept="1" />
-      <node id="2980444369921354730" at="17,23,18,19" concept="1" />
-      <node id="2980444369921355233" at="18,19,19,21" concept="1" />
-      <node id="2980444369921356129" at="19,21,20,21" concept="1" />
-      <node id="2980444369921356828" at="20,21,21,21" concept="1" />
-      <node id="2980444369921357802" at="21,21,22,23" concept="1" />
-      <node id="2980444369922358033" at="25,28,26,20" concept="7" />
-      <node id="2980444369922360778" at="29,26,30,21" concept="7" />
-      <node id="2980444369922365666" at="33,26,34,21" concept="7" />
-      <node id="2980444369922369308" at="37,26,38,21" concept="7" />
-      <node id="2980444369922373058" at="41,27,42,22" concept="7" />
-      <node id="2980444369921375104" at="45,28,46,22" concept="7" />
-      <node id="2980444369921367306" at="49,62,50,20" concept="1" />
-      <node id="2980444369921370392" at="50,20,51,20" concept="1" />
-      <node id="2980444369921371418" at="51,20,52,20" concept="1" />
-      <node id="2980444369922401488" at="55,62,56,21" concept="1" />
-      <node id="2980444369922403176" at="56,21,57,21" concept="1" />
-      <node id="2980444369922405298" at="57,21,58,21" concept="1" />
-      <node id="2980444369922357449" at="25,0,28,0" concept="5" trace="getPos#()Lorg/lwjgl/util/vector/Vector3f;" />
-      <node id="2980444369922360171" at="29,0,32,0" concept="5" trace="getRotX#()F" />
-      <node id="2980444369922363786" at="33,0,36,0" concept="5" trace="getRotY#()F" />
-      <node id="2980444369922368648" at="37,0,40,0" concept="5" trace="getRotZ#()F" />
-      <node id="2980444369922372372" at="41,0,44,0" concept="5" trace="getScale#()F" />
-      <node id="2980444369921374544" at="45,0,48,0" concept="5" trace="getModel#()LCM/test/TModel;" />
-      <node id="2980444369921365770" at="49,0,54,0" concept="5" trace="increaesRotation#(FFF)V" />
-      <node id="2980444369921360176" at="55,0,60,0" concept="5" trace="increasePosition#(FFF)V" />
-      <node id="2980444369921354168" at="16,0,24,0" concept="0" trace="Entity#(LCM/test/TModel;Lorg/lwjgl/util/vector/Vector3f;FFFF)V" />
+      <node id="2980444369921354504" at="9,0,10,0" concept="4" trace="model" />
+      <node id="2980444369921353870" at="10,0,11,0" concept="4" trace="pos" />
+      <node id="2980444369921353918" at="11,0,12,0" concept="4" trace="rotX" />
+      <node id="2980444369921353964" at="12,0,13,0" concept="4" trace="rotY" />
+      <node id="2980444369921354013" at="13,0,14,0" concept="4" trace="rotZ" />
+      <node id="2980444369921354071" at="14,0,15,0" concept="4" trace="scale" />
+      <node id="2980444369921354338" at="16,94,17,23" concept="3" />
+      <node id="2980444369921354730" at="17,23,18,19" concept="3" />
+      <node id="2980444369921355233" at="18,19,19,21" concept="3" />
+      <node id="2980444369921356129" at="19,21,20,21" concept="3" />
+      <node id="2980444369921356828" at="20,21,21,21" concept="3" />
+      <node id="2980444369921357802" at="21,21,22,23" concept="3" />
+      <node id="2980444369922358033" at="25,28,26,20" concept="10" />
+      <node id="2980444369922360778" at="29,26,30,21" concept="10" />
+      <node id="2980444369922365666" at="33,26,34,21" concept="10" />
+      <node id="2980444369922369308" at="37,26,38,21" concept="10" />
+      <node id="2980444369922373058" at="41,27,42,22" concept="10" />
+      <node id="2980444369921375104" at="45,28,46,22" concept="10" />
+      <node id="2980444369921367306" at="49,62,50,20" concept="3" />
+      <node id="2980444369921370392" at="50,20,51,20" concept="3" />
+      <node id="2980444369921371418" at="51,20,52,20" concept="3" />
+      <node id="2980444369922401488" at="55,62,56,21" concept="3" />
+      <node id="2980444369922403176" at="56,21,57,21" concept="3" />
+      <node id="2980444369922405298" at="57,21,58,21" concept="3" />
+      <node id="2980444369922357449" at="25,0,28,0" concept="8" trace="getPos#()Lorg/lwjgl/util/vector/Vector3f;" />
+      <node id="2980444369922360171" at="29,0,32,0" concept="8" trace="getRotX#()F" />
+      <node id="2980444369922363786" at="33,0,36,0" concept="8" trace="getRotY#()F" />
+      <node id="2980444369922368648" at="37,0,40,0" concept="8" trace="getRotZ#()F" />
+      <node id="2980444369922372372" at="41,0,44,0" concept="8" trace="getScale#()F" />
+      <node id="2980444369921374544" at="45,0,48,0" concept="8" trace="getModel#()LCM/test/TModel;" />
+      <node id="2980444369921365770" at="49,0,54,0" concept="8" trace="increaseRotation#(FFF)V" />
+      <node id="2980444369921360176" at="55,0,60,0" concept="8" trace="increasePosition#(FFF)V" />
+      <node id="2980444369921354168" at="16,0,24,0" concept="1" trace="Entity#(LCM/test/TModel;Lorg/lwjgl/util/vector/Vector3f;FFFF)V" />
       <scope id="2980444369922357452" at="25,28,26,20" />
       <scope id="2980444369922360174" at="29,26,30,21" />
       <scope id="2980444369922363789" at="33,26,34,21" />
@@ -310,66 +351,66 @@
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921388773">
     <file name="ShaderProgram.java">
-      <node id="2980444369921576910" at="17,0,18,0" concept="9" trace="mBuffer" />
-      <node id="2980444369921388824" at="18,0,19,0" concept="2" trace="programId" />
-      <node id="2980444369921388875" at="19,0,20,0" concept="2" trace="fragmentShaderId" />
-      <node id="2980444369921388928" at="20,0,21,0" concept="2" trace="vertexShaderId" />
-      <node id="2980444369921389870" at="22,50,23,42" concept="6" />
-      <node id="2980444369921390160" at="24,9,25,63" concept="6" />
-      <node id="2980444369921392810" at="25,63,26,18" concept="6" />
-      <node id="2980444369921394688" at="27,45,28,38" concept="1" />
-      <node id="2980444369921396528" at="29,7,30,16" concept="1" />
-      <node id="2980444369921392976" at="31,30,32,27" concept="1" />
-      <node id="2980444369921393177" at="32,27,33,21" concept="1" />
-      <node id="2980444369921397180" at="34,5,35,42" concept="6" />
-      <node id="2980444369921404553" at="35,42,36,37" concept="1" />
-      <node id="2980444369921403570" at="36,37,37,35" concept="1" />
-      <node id="2980444369921409119" at="38,79,39,22" concept="1" />
-      <node id="2980444369921409637" at="40,5,41,20" concept="7" />
-      <node id="2980444369921389074" at="44,52,45,62" concept="1" />
-      <node id="2980444369921421315" at="45,62,46,66" concept="1" />
-      <node id="2980444369921422553" at="46,66,47,39" concept="1" />
-      <node id="2980444369921423325" at="47,39,48,51" concept="1" />
-      <node id="2980444369921423874" at="48,51,49,53" concept="1" />
-      <node id="2980444369921424555" at="49,53,50,18" concept="1" />
-      <node id="2980444369921424946" at="50,18,51,34" concept="1" />
-      <node id="2980444369921425535" at="51,34,52,38" concept="1" />
-      <node id="2980444369921556994" at="52,38,53,29" concept="1" />
-      <node id="2980444369921416000" at="56,23,57,33" concept="1" />
-      <node id="2980444369921417573" at="60,22,61,25" concept="1" />
-      <node id="2980444369921417661" at="64,23,65,11" concept="1" />
-      <node id="2980444369921417699" at="65,11,66,51" concept="1" />
-      <node id="2980444369921417993" at="66,51,67,53" concept="1" />
-      <node id="2980444369921418762" at="67,53,68,40" concept="1" />
-      <node id="2980444369921419663" at="68,40,69,42" concept="1" />
-      <node id="2980444369921420128" at="69,42,70,36" concept="1" />
-      <node id="2980444369921411770" at="73,53,74,54" concept="1" />
-      <node id="2980444369921412797" at="77,0,78,0" concept="5" trace="bindAttribs#()V" />
-      <node id="2980444369921552479" at="79,52,80,57" concept="7" />
-      <node id="2980444369921556093" at="83,0,84,0" concept="5" trace="getAllUniformLocations#()V" />
-      <node id="2980444369921566339" at="85,50,86,41" concept="1" />
-      <node id="2980444369921571000" at="89,50,90,19" concept="6" />
-      <node id="2980444369921571299" at="91,12,92,15" concept="1" />
-      <node id="2980444369921571587" at="93,5,94,32" concept="1" />
-      <node id="2980444369921563158" at="97,46,98,29" concept="1" />
-      <node id="2980444369921578981" at="101,50,102,21" concept="1" />
-      <node id="2980444369921579282" at="102,21,103,19" concept="1" />
-      <node id="2980444369921579602" at="103,19,104,47" concept="1" />
-      <node id="2980444369921393312" at="26,18,29,7" concept="13" />
-      <node id="2980444369921406019" at="37,35,40,5" concept="4" />
-      <node id="2980444369921415669" at="56,0,59,0" concept="5" trace="start#()V" />
-      <node id="2980444369921417024" at="60,0,63,0" concept="5" trace="stop#()V" />
-      <node id="2980444369921411451" at="73,0,76,0" concept="5" trace="bindAttrib#(ILjava/lang/String;)V" />
-      <node id="2980444369921551412" at="79,0,82,0" concept="5" trace="getUniformLocation#(Ljava/lang/String;)I" />
-      <node id="2980444369921564809" at="85,0,88,0" concept="5" trace="loadVector#(ILorg/lwjgl/util/vector/Vector3f;)V" />
-      <node id="2980444369921571246" at="90,19,93,5" concept="4" />
-      <node id="2980444369921561642" at="97,0,100,0" concept="5" trace="loadFloat#(IF)V" />
-      <node id="2980444369921573779" at="101,0,106,0" concept="5" trace="loadMatrix#(ILorg/lwjgl/util/vector/Matrix4f;)V" />
-      <node id="2980444369921569448" at="89,0,96,0" concept="5" trace="loadBoolean#(IZ)V" />
-      <node id="2980444369921413938" at="64,0,72,0" concept="5" trace="clean#()V" />
-      <node id="2980444369921390101" at="23,42,34,5" concept="12" />
-      <node id="2980444369921388999" at="44,0,55,0" concept="0" trace="ShaderProgram#(Ljava/lang/String;Ljava/lang/String;)V" />
-      <node id="2980444369921389721" at="22,0,43,0" concept="10" trace="loadShader#(Ljava/lang/String;I)I" />
+      <node id="2980444369921576910" at="17,0,18,0" concept="12" trace="mBuffer" />
+      <node id="2980444369921388824" at="18,0,19,0" concept="4" trace="programId" />
+      <node id="2980444369921388875" at="19,0,20,0" concept="4" trace="fragmentShaderId" />
+      <node id="2980444369921388928" at="20,0,21,0" concept="4" trace="vertexShaderId" />
+      <node id="2980444369921389870" at="22,50,23,42" concept="9" />
+      <node id="2980444369921390160" at="24,9,25,63" concept="9" />
+      <node id="2980444369921392810" at="25,63,26,18" concept="9" />
+      <node id="2980444369921394688" at="27,45,28,38" concept="3" />
+      <node id="2980444369921396528" at="29,7,30,16" concept="3" />
+      <node id="2980444369921392976" at="31,30,32,27" concept="3" />
+      <node id="2980444369921393177" at="32,27,33,21" concept="3" />
+      <node id="2980444369921397180" at="34,5,35,42" concept="9" />
+      <node id="2980444369921404553" at="35,42,36,37" concept="3" />
+      <node id="2980444369921403570" at="36,37,37,35" concept="3" />
+      <node id="2980444369921409119" at="38,79,39,22" concept="3" />
+      <node id="2980444369921409637" at="40,5,41,20" concept="10" />
+      <node id="2980444369921389074" at="44,52,45,62" concept="3" />
+      <node id="2980444369921421315" at="45,62,46,66" concept="3" />
+      <node id="2980444369921422553" at="46,66,47,39" concept="3" />
+      <node id="2980444369921423325" at="47,39,48,51" concept="3" />
+      <node id="2980444369921423874" at="48,51,49,53" concept="3" />
+      <node id="2980444369921424555" at="49,53,50,18" concept="3" />
+      <node id="2980444369921424946" at="50,18,51,34" concept="3" />
+      <node id="2980444369921425535" at="51,34,52,38" concept="3" />
+      <node id="2980444369921556994" at="52,38,53,29" concept="3" />
+      <node id="2980444369921416000" at="56,23,57,33" concept="3" />
+      <node id="2980444369921417573" at="60,22,61,25" concept="3" />
+      <node id="2980444369921417661" at="64,23,65,11" concept="3" />
+      <node id="2980444369921417699" at="65,11,66,51" concept="3" />
+      <node id="2980444369921417993" at="66,51,67,53" concept="3" />
+      <node id="2980444369921418762" at="67,53,68,40" concept="3" />
+      <node id="2980444369921419663" at="68,40,69,42" concept="3" />
+      <node id="2980444369921420128" at="69,42,70,36" concept="3" />
+      <node id="2980444369921411770" at="73,53,74,54" concept="3" />
+      <node id="2980444369921412797" at="77,0,78,0" concept="8" trace="bindAttribs#()V" />
+      <node id="2980444369921552479" at="79,52,80,57" concept="10" />
+      <node id="2980444369921556093" at="83,0,84,0" concept="8" trace="getAllUniformLocations#()V" />
+      <node id="2980444369921566339" at="85,50,86,41" concept="3" />
+      <node id="2980444369921571000" at="89,50,90,19" concept="9" />
+      <node id="2980444369921571299" at="91,12,92,15" concept="3" />
+      <node id="2980444369921571587" at="93,5,94,32" concept="3" />
+      <node id="2980444369921563158" at="97,46,98,29" concept="3" />
+      <node id="2980444369921578981" at="101,50,102,21" concept="3" />
+      <node id="2980444369921579282" at="102,21,103,19" concept="3" />
+      <node id="2980444369921579602" at="103,19,104,47" concept="3" />
+      <node id="2980444369921393312" at="26,18,29,7" concept="16" />
+      <node id="2980444369921406019" at="37,35,40,5" concept="7" />
+      <node id="2980444369921415669" at="56,0,59,0" concept="8" trace="start#()V" />
+      <node id="2980444369921417024" at="60,0,63,0" concept="8" trace="stop#()V" />
+      <node id="2980444369921411451" at="73,0,76,0" concept="8" trace="bindAttrib#(ILjava/lang/String;)V" />
+      <node id="2980444369921551412" at="79,0,82,0" concept="8" trace="getUniformLocation#(Ljava/lang/String;)I" />
+      <node id="2980444369921564809" at="85,0,88,0" concept="8" trace="loadVector#(ILorg/lwjgl/util/vector/Vector3f;)V" />
+      <node id="2980444369921571246" at="90,19,93,5" concept="7" />
+      <node id="2980444369921561642" at="97,0,100,0" concept="8" trace="loadFloat#(IF)V" />
+      <node id="2980444369921573779" at="101,0,106,0" concept="8" trace="loadMatrix#(ILorg/lwjgl/util/vector/Matrix4f;)V" />
+      <node id="2980444369921569448" at="89,0,96,0" concept="8" trace="loadBoolean#(IZ)V" />
+      <node id="2980444369921413938" at="64,0,72,0" concept="8" trace="clean#()V" />
+      <node id="2980444369921390101" at="23,42,34,5" concept="15" />
+      <node id="2980444369921388999" at="44,0,55,0" concept="1" trace="ShaderProgram#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="2980444369921389721" at="22,0,43,0" concept="13" trace="loadShader#(Ljava/lang/String;I)I" />
       <scope id="2980444369921393314" at="27,45,28,38" />
       <scope id="2980444369921406021" at="38,79,39,22" />
       <scope id="2980444369921415672" at="56,23,57,33" />
@@ -438,44 +479,77 @@
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921425956">
     <file name="Shader.java">
-      <node id="2980444369921586786" at="9,0,10,0" concept="2" trace="loc_transformMatrix" />
-      <node id="2980444369921426028" at="11,0,12,0" concept="9" trace="VFile" />
-      <node id="2980444369921426122" at="12,0,13,0" concept="9" trace="FFile" />
-      <node id="2980444369921426334" at="14,19,15,24" concept="11" />
-      <node id="2980444369921427622" at="20,32,21,36" concept="1" />
-      <node id="2980444369922313530" at="21,36,22,37" concept="1" />
-      <node id="2980444369921589258" at="25,52,26,45" concept="1" />
-      <node id="2980444369921587016" at="30,43,31,75" concept="1" />
-      <node id="2980444369921426278" at="14,0,17,0" concept="0" trace="Shader#()V" />
-      <node id="2980444369921588874" at="25,0,28,0" concept="5" trace="loadTransformationMatrix#(Lorg/lwjgl/util/vector/Matrix4f;)V" />
-      <node id="2980444369921585998" at="29,0,33,0" concept="5" trace="getAllUniformLocations#()V" />
-      <node id="2980444369921427291" at="19,0,24,0" concept="5" trace="bindAttribs#()V" />
-      <scope id="2980444369921426281" at="14,19,15,24" />
-      <scope id="2980444369921588877" at="25,52,26,45" />
-      <scope id="2980444369921586001" at="30,43,31,75" />
-      <scope id="2980444369921427294" at="20,32,22,37" />
-      <scope id="2980444369921426278" at="14,0,17,0" />
-      <scope id="2980444369921588874" at="25,0,28,0">
+      <node id="8095760443532063996" at="9,0,10,0" concept="4" trace="loc_viewMatrix" />
+      <node id="2980444369921586786" at="10,0,11,0" concept="4" trace="loc_transformMatrix" />
+      <node id="8095760443531742961" at="11,0,12,0" concept="4" trace="loc_projMatrix" />
+      <node id="2980444369921426028" at="13,0,14,0" concept="12" trace="VFile" />
+      <node id="2980444369921426122" at="14,0,15,0" concept="12" trace="FFile" />
+      <node id="2980444369921426334" at="16,19,17,24" concept="14" />
+      <node id="2980444369921427622" at="22,32,23,36" concept="3" />
+      <node id="2980444369922313530" at="23,36,24,37" concept="3" />
+      <node id="8095760443532068053" at="27,37,28,49" concept="9" />
+      <node id="8095760443532068397" at="28,49,29,46" concept="3" />
+      <node id="8095760443531745658" at="32,42,33,40" concept="3" />
+      <node id="2980444369921589258" at="36,52,37,45" concept="3" />
+      <node id="2980444369921587016" at="41,43,42,75" concept="3" />
+      <node id="8095760443531743368" at="42,75,43,60" concept="3" />
+      <node id="8095760443532065142" at="43,60,44,60" concept="3" />
+      <node id="2980444369921426278" at="16,0,19,0" concept="1" trace="Shader#()V" />
+      <node id="8095760443531745124" at="32,0,35,0" concept="8" trace="loadProjMatrix#(Lorg/lwjgl/util/vector/Matrix4f;)V" />
+      <node id="2980444369921588874" at="36,0,39,0" concept="8" trace="loadTransformationMatrix#(Lorg/lwjgl/util/vector/Matrix4f;)V" />
+      <node id="8095760443532067356" at="27,0,31,0" concept="8" trace="loadViewMatrix#(LCM/test/Cam;)V" />
+      <node id="2980444369921427291" at="21,0,26,0" concept="8" trace="bindAttribs#()V" />
+      <node id="2980444369921585998" at="40,0,46,0" concept="8" trace="getAllUniformLocations#()V" />
+      <scope id="2980444369921426281" at="16,19,17,24" />
+      <scope id="8095760443531745127" at="32,42,33,40" />
+      <scope id="2980444369921588877" at="36,52,37,45" />
+      <scope id="2980444369921427294" at="22,32,24,37" />
+      <scope id="8095760443532067359" at="27,37,29,46">
+        <var name="vMatrix" id="8095760443532068054" />
+      </scope>
+      <scope id="2980444369921426278" at="16,0,19,0" />
+      <scope id="8095760443531745124" at="32,0,35,0">
+        <var name="m" id="8095760443531745423" />
+      </scope>
+      <scope id="2980444369921588874" at="36,0,39,0">
         <var name="m" id="2980444369921589083" />
       </scope>
-      <scope id="2980444369921585998" at="29,0,33,0" />
-      <scope id="2980444369921427291" at="19,0,24,0" />
-      <unit id="2980444369921425956" at="7,0,34,0" name="CM.test.Shader" />
+      <scope id="2980444369921586001" at="41,43,44,60" />
+      <scope id="8095760443532067356" at="27,0,31,0">
+        <var name="c" id="8095760443532067720" />
+      </scope>
+      <scope id="2980444369921427291" at="21,0,26,0" />
+      <scope id="2980444369921585998" at="40,0,46,0" />
+      <unit id="2980444369921425956" at="7,0,47,0" name="CM.test.Shader" />
     </file>
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921596241">
     <file name="Maths.java">
-      <node id="2980444369921596451" at="10,113,11,32" concept="6" />
-      <node id="2980444369921597293" at="11,32,12,20" concept="1" />
-      <node id="2980444369921597616" at="12,20,13,42" concept="1" />
-      <node id="2980444369921598034" at="13,42,14,77" concept="1" />
-      <node id="2980444369921607905" at="14,77,15,77" concept="1" />
-      <node id="2980444369921608177" at="15,77,16,77" concept="1" />
-      <node id="2980444369921610735" at="16,77,17,60" concept="1" />
-      <node id="2980444369921613911" at="17,60,18,13" concept="7" />
-      <node id="2980444369921596295" at="10,0,20,0" concept="10" trace="createTransformMatrix#(Lorg/lwjgl/util/vector/Vector3f;FFFF)Lorg/lwjgl/util/vector/Matrix4f;" />
+      <node id="2980444369921596451" at="10,113,11,32" concept="9" />
+      <node id="2980444369921597293" at="11,32,12,20" concept="3" />
+      <node id="2980444369921597616" at="12,20,13,42" concept="3" />
+      <node id="2980444369921598034" at="13,42,14,77" concept="3" />
+      <node id="2980444369921607905" at="14,77,15,77" concept="3" />
+      <node id="2980444369921608177" at="15,77,16,77" concept="3" />
+      <node id="2980444369921610735" at="16,77,17,60" concept="3" />
+      <node id="2980444369921613911" at="17,60,18,13" concept="10" />
+      <node id="8095760443532031941" at="21,52,22,32" concept="9" />
+      <node id="8095760443532031946" at="22,32,23,20" concept="3" />
+      <node id="8095760443532038464" at="23,20,24,89" concept="3" />
+      <node id="8095760443532043710" at="24,89,25,87" concept="3" />
+      <node id="8095760443532048252" at="25,87,26,35" concept="9" />
+      <node id="8095760443532049248" at="26,35,27,71" concept="9" />
+      <node id="8095760443532053767" at="27,71,28,40" concept="3" />
+      <node id="8095760443532032003" at="28,40,29,13" concept="10" />
+      <node id="2980444369921596295" at="10,0,20,0" concept="13" trace="createTransformMatrix#(Lorg/lwjgl/util/vector/Vector3f;FFFF)Lorg/lwjgl/util/vector/Matrix4f;" />
+      <node id="8095760443532031939" at="21,0,31,0" concept="13" trace="createViewMatrix#(LCM/test/Cam;)Lorg/lwjgl/util/vector/Matrix4f;" />
       <scope id="2980444369921596298" at="10,113,18,13">
         <var name="m" id="2980444369921596452" />
+      </scope>
+      <scope id="8095760443532031940" at="21,52,29,13">
+        <var name="camPos" id="8095760443532048253" />
+        <var name="m" id="8095760443532031942" />
+        <var name="negCamPos" id="8095760443532049249" />
       </scope>
       <scope id="2980444369921596295" at="10,0,20,0">
         <var name="rx" id="2980444369921596325" />
@@ -484,16 +558,19 @@
         <var name="scale" id="2980444369921596398" />
         <var name="translation" id="2980444369921596312" />
       </scope>
-      <unit id="2980444369921596241" at="8,0,21,0" name="CM.test.Maths" />
+      <scope id="8095760443532031939" at="21,0,31,0">
+        <var name="cam" id="8095760443532037158" />
+      </scope>
+      <unit id="2980444369921596241" at="8,0,33,0" name="CM.test.Maths" />
     </file>
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921699176">
     <file name="MTexture.java">
-      <node id="2980444369921699246" at="8,0,9,0" concept="2" trace="textureID" />
-      <node id="2980444369921699327" at="10,27,11,24" concept="1" />
-      <node id="2980444369921700169" at="14,22,15,26" concept="7" />
-      <node id="2980444369921699289" at="10,0,13,0" concept="0" trace="MTexture#(I)V" />
-      <node id="2980444369921700074" at="14,0,17,0" concept="5" trace="getId#()I" />
+      <node id="2980444369921699246" at="8,0,9,0" concept="4" trace="textureID" />
+      <node id="2980444369921699327" at="10,27,11,24" concept="3" />
+      <node id="2980444369921700169" at="14,22,15,26" concept="10" />
+      <node id="2980444369921699289" at="10,0,13,0" concept="1" trace="MTexture#(I)V" />
+      <node id="2980444369921700074" at="14,0,17,0" concept="8" trace="getId#()I" />
       <scope id="2980444369921699292" at="10,27,11,24" />
       <scope id="2980444369921700077" at="14,22,15,26" />
       <scope id="2980444369921699289" at="10,0,13,0">
@@ -505,15 +582,15 @@
   </root>
   <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921700525">
     <file name="TModel.java">
-      <node id="2980444369921700681" at="8,0,9,0" concept="2" trace="rawM" />
-      <node id="2980444369921700726" at="9,0,10,0" concept="2" trace="tex" />
-      <node id="2980444369921700851" at="11,41,12,18" concept="1" />
-      <node id="2980444369921701109" at="12,18,13,17" concept="1" />
-      <node id="2980444369921701612" at="16,33,17,21" concept="7" />
-      <node id="2980444369921702497" at="20,32,21,20" concept="7" />
-      <node id="2980444369921701513" at="16,0,19,0" concept="5" trace="getRawModel#()LCM/test/RawModel;" />
-      <node id="2980444369921702371" at="20,0,23,0" concept="5" trace="getTexture#()LCM/test/MTexture;" />
-      <node id="2980444369921700783" at="11,0,15,0" concept="0" trace="TModel#(LCM/test/RawModel;LCM/test/MTexture;)V" />
+      <node id="2980444369921700681" at="8,0,9,0" concept="4" trace="rawM" />
+      <node id="2980444369921700726" at="9,0,10,0" concept="4" trace="tex" />
+      <node id="2980444369921700851" at="11,41,12,18" concept="3" />
+      <node id="2980444369921701109" at="12,18,13,17" concept="3" />
+      <node id="2980444369921701612" at="16,33,17,21" concept="10" />
+      <node id="2980444369921702497" at="20,32,21,20" concept="10" />
+      <node id="2980444369921701513" at="16,0,19,0" concept="8" trace="getRawModel#()LCM/test/RawModel;" />
+      <node id="2980444369921702371" at="20,0,23,0" concept="8" trace="getTexture#()LCM/test/MTexture;" />
+      <node id="2980444369921700783" at="11,0,15,0" concept="1" trace="TModel#(LCM/test/RawModel;LCM/test/MTexture;)V" />
       <scope id="2980444369921701516" at="16,33,17,21" />
       <scope id="2980444369921702374" at="20,32,21,20" />
       <scope id="2980444369921700786" at="11,41,13,17" />
@@ -524,6 +601,257 @@
         <var name="t" id="2980444369921700816" />
       </scope>
       <unit id="2980444369921700525" at="6,0,24,0" name="CM.test.TModel" />
+    </file>
+  </root>
+  <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532023235">
+    <file name="Cam.java">
+      <node id="8095760443532024803" at="11,0,12,0" concept="4" trace="yaw" />
+      <node id="8095760443532024855" at="12,0,13,0" concept="4" trace="pitch" />
+      <node id="8095760443532024916" at="13,0,14,0" concept="4" trace="roll" />
+      <node id="8095760443532023302" at="14,0,15,0" concept="4" trace="pos" />
+      <node id="866875190212612791" at="15,0,16,0" concept="4" trace="angle" />
+      <node id="866875190212614031" at="16,0,17,0" concept="4" trace="dist" />
+      <node id="866875190212648078" at="17,0,18,0" concept="4" trace="camSpeed" />
+      <node id="866875190212649901" at="18,0,19,0" concept="4" trace="entity" />
+      <node id="866875190212652800" at="20,24,21,26" concept="3" />
+      <node id="866875190212652568" at="21,26,22,20" concept="3" />
+      <node id="8095760443532030472" at="31,5,32,0" concept="11" />
+      <node id="866875190212641080" at="32,0,33,15" concept="3" />
+      <node id="866875190212641272" at="33,15,34,16" concept="3" />
+      <node id="866875190212641480" at="34,16,35,16" concept="3" />
+      <node id="866875190212641694" at="35,16,36,45" concept="9" />
+      <node id="866875190212641987" at="36,45,37,41" concept="9" />
+      <node id="866875190212675466" at="37,41,38,47" concept="3" />
+      <node id="866875190212675873" at="38,47,39,48" concept="3" />
+      <node id="866875190212645453" at="42,77,43,43" concept="9" />
+      <node id="866875190212654415" at="43,43,44,79" concept="9" />
+      <node id="866875190212659211" at="44,79,45,79" concept="9" />
+      <node id="866875190212663872" at="45,79,46,0" concept="11" />
+      <node id="866875190212665489" at="46,0,47,40" concept="3" />
+      <node id="866875190212668571" at="47,40,48,40" concept="3" />
+      <node id="866875190212672100" at="48,40,49,45" concept="3" />
+      <node id="866875190212611078" at="53,32,54,37" concept="9" />
+      <node id="866875190212614840" at="54,37,55,17" concept="3" />
+      <node id="866875190212617117" at="60,32,61,37" concept="9" />
+      <node id="866875190212618209" at="61,37,62,17" concept="3" />
+      <node id="866875190212621872" at="66,27,67,43" concept="9" />
+      <node id="866875190212622818" at="67,43,68,17" concept="3" />
+      <node id="866875190212626781" at="71,38,72,60" concept="10" />
+      <node id="866875190212635588" at="75,36,76,60" concept="10" />
+      <node id="8095760443532025081" at="79,25,80,20" concept="10" />
+      <node id="8095760443532025705" at="83,27,84,22" concept="10" />
+      <node id="8095760443532026333" at="87,26,88,21" concept="10" />
+      <node id="8095760443532027245" at="91,28,92,20" concept="10" />
+      <node id="8095760443532028210" at="25,22,27,5" concept="7" />
+      <node id="8095760443532029690" at="27,5,29,5" concept="7" />
+      <node id="8095760443532030699" at="29,5,31,5" concept="7" />
+      <node id="866875190212624900" at="71,0,74,0" concept="8" trace="calcHorizontalDist#()F" />
+      <node id="866875190212634992" at="75,0,78,0" concept="8" trace="calcVerticalDist#()F" />
+      <node id="8095760443532025028" at="79,0,82,0" concept="8" trace="getYaw#()F" />
+      <node id="8095760443532025594" at="83,0,86,0" concept="8" trace="getPitch#()F" />
+      <node id="8095760443532026197" at="87,0,90,0" concept="8" trace="getRoll#()F" />
+      <node id="8095760443532027081" at="91,0,94,0" concept="8" trace="getPos#()Lorg/lwjgl/util/vector/Vector3f;" />
+      <node id="866875190212651934" at="20,0,24,0" concept="1" trace="Cam#(LCM/test/Entity;)V" />
+      <node id="866875190212610984" at="52,28,56,5" concept="7" />
+      <node id="866875190212617022" at="59,28,63,5" concept="7" />
+      <node id="866875190212621413" at="66,0,70,0" concept="8" trace="calcZoom#()V" />
+      <node id="866875190212610598" at="52,0,58,0" concept="8" trace="calcAngle#()V" />
+      <node id="866875190212616597" at="59,0,65,0" concept="8" trace="calcPitch#()V" />
+      <node id="866875190212644045" at="42,0,51,0" concept="8" trace="calcCameraPosition#(FF)V" />
+      <node id="8095760443532028004" at="25,0,41,0" concept="8" trace="move#()V" />
+      <scope id="8095760443532028212" at="26,45,26,45" />
+      <scope id="8095760443532029693" at="28,45,28,45" />
+      <scope id="8095760443532030702" at="30,45,30,45" />
+      <scope id="866875190212624903" at="71,38,72,60" />
+      <scope id="866875190212634995" at="75,36,76,60" />
+      <scope id="8095760443532025031" at="79,25,80,20" />
+      <scope id="8095760443532025597" at="83,27,84,22" />
+      <scope id="8095760443532026200" at="87,26,88,21" />
+      <scope id="8095760443532027084" at="91,28,92,20" />
+      <scope id="866875190212651937" at="20,24,22,20" />
+      <scope id="866875190212610986" at="53,32,55,17">
+        <var name="a" id="866875190212611081" />
+      </scope>
+      <scope id="866875190212617024" at="60,32,62,17">
+        <var name="p" id="866875190212617120" />
+      </scope>
+      <scope id="866875190212621416" at="66,27,68,17">
+        <var name="zoom" id="866875190212621875" />
+      </scope>
+      <scope id="866875190212624900" at="71,0,74,0" />
+      <scope id="866875190212634992" at="75,0,78,0" />
+      <scope id="8095760443532025028" at="79,0,82,0" />
+      <scope id="8095760443532025594" at="83,0,86,0" />
+      <scope id="8095760443532026197" at="87,0,90,0" />
+      <scope id="8095760443532027081" at="91,0,94,0" />
+      <scope id="866875190212651934" at="20,0,24,0">
+        <var name="e" id="866875190212652542" />
+      </scope>
+      <scope id="866875190212610601" at="52,28,56,5" />
+      <scope id="866875190212616600" at="59,28,63,5" />
+      <scope id="866875190212621413" at="66,0,70,0" />
+      <scope id="866875190212610598" at="52,0,58,0" />
+      <scope id="866875190212616597" at="59,0,65,0" />
+      <scope id="866875190212644048" at="42,77,49,45">
+        <var name="offsetX" id="866875190212654418" />
+        <var name="offsetZ" id="866875190212659214" />
+        <var name="theta" id="866875190212645456" />
+      </scope>
+      <scope id="866875190212644045" at="42,0,51,0">
+        <var name="horizontalDist" id="866875190212644634" />
+        <var name="verticalDist" id="866875190212645031" />
+      </scope>
+      <scope id="8095760443532028007" at="25,22,39,48">
+        <var name="horizontalD" id="866875190212641697" />
+        <var name="verticalD" id="866875190212641990" />
+      </scope>
+      <scope id="8095760443532028004" at="25,0,41,0" />
+      <unit id="8095760443532023235" at="9,0,95,0" name="CM.test.Cam" />
+    </file>
+  </root>
+  <root nodeRef="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532116802">
+    <file name="ModelLoader.java">
+      <node id="8095760443532116974" at="16,59,17,33" concept="9" />
+      <node id="8095760443532117041" at="18,9,19,71" concept="3" />
+      <node id="8095760443532529154" at="20,39,21,43" concept="3" />
+      <node id="8095760443532121745" at="21,43,22,26" concept="3" />
+      <node id="8095760443532122058" at="23,5,24,67" concept="9" />
+      <node id="8095760443532124005" at="24,67,25,16" concept="9" />
+      <node id="8095760443532138917" at="25,16,26,53" concept="9" />
+      <node id="8095760443532141447" at="26,53,27,53" concept="9" />
+      <node id="8095760443532143600" at="27,53,28,0" concept="11" />
+      <node id="8095760443532142950" at="28,0,29,51" concept="9" />
+      <node id="8095760443532124201" at="29,51,30,56" concept="9" />
+      <node id="8095760443532142604" at="30,56,31,0" concept="11" />
+      <node id="8095760443532143851" at="31,0,32,33" concept="9" />
+      <node id="8095760443532144236" at="32,33,33,30" concept="9" />
+      <node id="8095760443532144651" at="33,30,34,28" concept="9" />
+      <node id="8095760443532145036" at="34,28,35,30" concept="9" />
+      <node id="8095760443532621900" at="37,20,38,41" concept="3" />
+      <node id="8095760443532145993" at="38,41,39,43" concept="9" />
+      <node id="8095760443532149921" at="40,36,41,131" concept="9" />
+      <node id="8095760443532155816" at="41,131,42,31" concept="3" />
+      <node id="8095760443532160655" at="43,44,44,102" concept="9" />
+      <node id="8095760443532165665" at="44,102,45,27" concept="3" />
+      <node id="8095760443532159175" at="46,44,47,131" concept="9" />
+      <node id="8095760443532159925" at="47,131,48,28" concept="3" />
+      <node id="8095760443532167136" at="49,43,50,52" concept="3" />
+      <node id="8095760443532173725" at="50,52,51,54" concept="3" />
+      <node id="8095760443532178624" at="51,54,52,16" concept="0" />
+      <node id="8095760443532183069" at="56,39,57,43" concept="3" />
+      <node id="8095760443532185066" at="57,43,58,19" concept="2" />
+      <node id="8095760443532185682" at="59,9,60,44" concept="9" />
+      <node id="8095760443532187977" at="60,44,61,45" concept="9" />
+      <node id="8095760443532191542" at="61,45,62,45" concept="9" />
+      <node id="8095760443532192149" at="62,45,63,45" concept="9" />
+      <node id="8095760443532191854" at="63,45,64,0" concept="11" />
+      <node id="8095760443532227845" at="64,0,65,67" concept="3" />
+      <node id="8095760443532233669" at="65,67,66,67" concept="3" />
+      <node id="8095760443532234951" at="66,67,67,67" concept="3" />
+      <node id="8095760443532234313" at="67,67,68,0" concept="11" />
+      <node id="8095760443532238049" at="68,0,69,41" concept="3" />
+      <node id="8095760443532233161" at="69,41,70,0" concept="11" />
+      <node id="8095760443532243377" at="71,7,72,29" concept="3" />
+      <node id="8095760443532245565" at="72,29,73,0" concept="11" />
+      <node id="8095760443532145669" at="74,27,75,26" concept="3" />
+      <node id="8095760443532249849" at="76,5,77,51" concept="3" />
+      <node id="8095760443532262269" at="77,51,78,43" concept="3" />
+      <node id="8095760443532270273" at="78,43,79,0" concept="11" />
+      <node id="8095760443532274926" at="79,0,80,15" concept="9" />
+      <node id="8095760443532284704" at="81,33,82,32" concept="3" />
+      <node id="8095760443532288849" at="82,32,83,32" concept="3" />
+      <node id="8095760443532289032" at="83,32,84,32" concept="3" />
+      <node id="8095760443532304956" at="86,46,87,39" concept="3" />
+      <node id="8095760443532323698" at="88,5,89,62" concept="10" />
+      <node id="8095760443532200523" at="92,159,93,55" concept="9" />
+      <node id="8095760443532203350" at="93,55,94,26" concept="3" />
+      <node id="8095760443532204836" at="94,26,95,67" concept="9" />
+      <node id="8095760443532207315" at="95,67,96,38" concept="3" />
+      <node id="8095760443532209702" at="96,38,97,46" concept="3" />
+      <node id="8095760443532214538" at="97,46,98,70" concept="9" />
+      <node id="8095760443532217100" at="98,70,99,41" concept="3" />
+      <node id="8095760443532221130" at="99,41,100,45" concept="3" />
+      <node id="8095760443532222919" at="100,45,101,45" concept="3" />
+      <node id="8095760443532294324" at="85,5,88,5" concept="5" />
+      <node id="8095760443532181736" at="55,28,59,9" concept="7" />
+      <node id="8095760443532279287" at="80,15,85,5" concept="6" />
+      <node id="8095760443532121417" at="17,33,23,5" concept="15" />
+      <node id="8095760443532198917" at="92,0,103,0" concept="13" trace="processVert#([Ljava/lang/String;Ljava/util/List;Ljava/util/List;Ljava/util/List;[F[F)V" />
+      <node id="8095760443532146690" at="39,43,53,9" concept="7" />
+      <node id="8095760443532180002" at="54,7,71,7" concept="16" />
+      <node id="8095760443532145818" at="36,9,54,7" concept="16" />
+      <node id="8095760443532145423" at="35,30,76,5" concept="15" />
+      <node id="8095760443532116886" at="16,0,91,0" concept="13" trace="loadModel#(Ljava/lang/String;LCM/test/Loader;)LCM/test/RawModel;" />
+      <scope id="8095760443532121418" at="18,9,19,71" />
+      <scope id="8095760443532145426" at="74,0,75,26">
+        <var name="e" id="8095760443532145428" />
+      </scope>
+      <scope id="8095760443532145432" at="74,27,75,26" />
+      <scope id="8095760443532294326" at="86,46,87,39" />
+      <scope id="8095760443532121413" at="20,0,22,26">
+        <var name="e" id="8095760443532121415" />
+      </scope>
+      <scope id="8095760443532121414" at="20,39,22,26" />
+      <scope id="8095760443532146692" at="40,36,42,31">
+        <var name="vertex" id="8095760443532149922" />
+      </scope>
+      <scope id="8095760443532147295" at="43,44,45,27">
+        <var name="texture" id="8095760443532160656" />
+      </scope>
+      <scope id="8095760443532148201" at="46,44,48,28">
+        <var name="normal" id="8095760443532156769" />
+      </scope>
+      <scope id="8095760443532181738" at="56,39,58,19" />
+      <scope id="8095760443532148970" at="49,43,52,16" />
+      <scope id="8095760443532279289" at="81,33,84,32" />
+      <scope id="8095760443532294324" at="85,5,88,5">
+        <var name="i" id="8095760443532294327" />
+      </scope>
+      <scope id="8095760443532279287" at="80,15,85,5">
+        <var name="v" id="8095760443532279290" />
+      </scope>
+      <scope id="8095760443532198920" at="92,159,101,45">
+        <var name="curNorm" id="8095760443532214539" />
+        <var name="curTex" id="8095760443532204837" />
+        <var name="currentV" id="8095760443532200526" />
+      </scope>
+      <scope id="8095760443532198917" at="92,0,103,0">
+        <var name="indices" id="8095760443532199757" />
+        <var name="norms" id="8095760443532200114" />
+        <var name="normsArray" id="8095760443532200451" />
+        <var name="tex" id="8095760443532199863" />
+        <var name="texArray" id="8095760443532200392" />
+        <var name="vertexData" id="8095760443532199555" />
+      </scope>
+      <scope id="8095760443532180004" at="55,28,70,0">
+        <var name="currentL" id="8095760443532185688" />
+        <var name="v1" id="8095760443532187983" />
+        <var name="v2" id="8095760443532191545" />
+        <var name="v3" id="8095760443532192152" />
+      </scope>
+      <scope id="8095760443532145820" at="37,20,53,9">
+        <var name="current" id="8095760443532145994" />
+      </scope>
+      <scope id="8095760443532145425" at="36,9,73,0" />
+      <scope id="8095760443532116889" at="16,59,89,62">
+        <var name="bufferedreader" id="8095760443532122059" />
+        <var name="filereader" id="8095760443532116975" />
+        <var name="indices" id="8095760443532138923" />
+        <var name="indicesArray" id="8095760443532145042" />
+        <var name="line" id="8095760443532124006" />
+        <var name="norms" id="8095760443532141448" />
+        <var name="normsArray" id="8095760443532144242" />
+        <var name="tex" id="8095760443532134532" />
+        <var name="texArray" id="8095760443532144657" />
+        <var name="vertices" id="8095760443532124207" />
+        <var name="verticesArray" id="8095760443532143857" />
+        <var name="vp" id="8095760443532274929" />
+      </scope>
+      <scope id="8095760443532116886" at="16,0,91,0">
+        <var name="file" id="8095760443532116904" />
+        <var name="l" id="8095760443532116916" />
+      </scope>
+      <unit id="8095760443532116802" at="14,0,104,0" name="CM.test.ModelLoader" />
     </file>
   </root>
 </debug-info>

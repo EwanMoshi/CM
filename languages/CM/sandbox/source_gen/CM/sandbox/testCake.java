@@ -4,13 +4,15 @@ package CM.sandbox;
 
 import CM.test.Display;
 import CM.test.Loader;
-import CM.test.Renderer;
 import CM.test.Shader;
+import CM.test.Renderer;
 import CM.test.RawModel;
+import CM.test.ModelLoader;
 import CM.test.MTexture;
 import CM.test.TModel;
 import CM.test.Entity;
 import org.lwjgl.util.vector.Vector3f;
+import CM.test.Cam;
 
 public class testCake {
 
@@ -106,22 +108,26 @@ public class testCake {
     Display.createDisplay();
 
     Loader loader = new Loader();
-    Renderer renderer = new Renderer();
     Shader shader = new Shader();
+    Renderer renderer = new Renderer(shader);
 
-    float[] vertices = {-0.5f, 0.5f, 0, -0.5f, -0.5f, 0, 0.5f, -0.5f, 0, 0.5f, 0.5f, 0};
-    int[] indices = {0, 1, 3, 3, 1, 2};
-    float[] texCoords = {0, 0, 0, 1, 1, 1, 1, 0};
-    RawModel model = loader.loadtoVAO(vertices, indices, texCoords);
 
-    MTexture texture = new MTexture(loader.loadTex("tex"));
+    RawModel model = ModelLoader.loadModel("chocCake", loader);
+
+
+    MTexture texture = new MTexture(loader.loadTex("choc"));
     TModel tModel = new TModel(model, texture);
 
-    Entity e = new Entity(tModel, new Vector3f(-1, 0, 0), 0, 0, 0, 1);
+    Entity e = new Entity(tModel, new Vector3f(0, 0, -10), 0, 0, 0, 1);
+
+    Entity defaultLook = new Entity(tModel, new Vector3f(0, 0, -10), 0, 0, 0, 1);
+    Cam camera = new Cam(defaultLook);
 
     while (!(org.lwjgl.opengl.Display.isCloseRequested())) {
+      camera.move();
       renderer.prepare();
       shader.start();
+      shader.loadViewMatrix(camera);
       renderer.render(e, shader);
       shader.stop();
       Display.updateDisplay();

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
+  <dependency className="CM.test.Cam" file="Cam.java">
+    <classNode dependClassName="CM.test.Entity" />
+    <classNode dependClassName="java.lang.Math" />
+    <classNode dependClassName="org.lwjgl.input.Keyboard" />
+    <classNode dependClassName="org.lwjgl.input.Mouse" />
+    <classNode dependClassName="org.lwjgl.util.vector.Vector3f" />
+  </dependency>
   <dependency className="CM.test.Display" file="Display.java">
     <classNode dependClassName="org.lwjgl.LWJGLException" />
     <classNode dependClassName="org.lwjgl.opengl.ContextAttribs" />
@@ -32,16 +39,37 @@
   </dependency>
   <dependency className="CM.test.MTexture" file="MTexture.java" />
   <dependency className="CM.test.Maths" file="Maths.java">
+    <classNode dependClassName="CM.test.Cam" />
     <classNode dependClassName="java.lang.Math" />
     <classNode dependClassName="org.lwjgl.util.vector.Matrix4f" />
+    <classNode dependClassName="org.lwjgl.util.vector.Vector3f" />
+  </dependency>
+  <dependency className="CM.test.ModelLoader" file="ModelLoader.java">
+    <classNode dependClassName="CM.test.Loader" />
+    <classNode dependClassName="CM.test.RawModel" />
+    <classNode dependClassName="java.io.BufferedReader" />
+    <classNode dependClassName="java.io.File" />
+    <classNode dependClassName="java.io.FileNotFoundException" />
+    <classNode dependClassName="java.io.FileReader" />
+    <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.Float" />
+    <classNode dependClassName="java.lang.Integer" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="java.util.ArrayList" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="org.lwjgl.util.vector.Vector2f" />
     <classNode dependClassName="org.lwjgl.util.vector.Vector3f" />
   </dependency>
   <dependency className="CM.test.RawModel" file="RawModel.java" />
   <dependency className="CM.test.Renderer" file="Renderer.java">
     <classNode dependClassName="CM.test.Entity" />
     <classNode dependClassName="CM.test.Maths" />
+    <classNode dependClassName="CM.test.RawModel" />
     <classNode dependClassName="CM.test.Shader" />
     <classNode dependClassName="CM.test.TModel" />
+    <classNode dependClassName="java.lang.Math" />
+    <classNode dependClassName="org.lwjgl.opengl.Display" />
     <classNode dependClassName="org.lwjgl.opengl.GL11" />
     <classNode dependClassName="org.lwjgl.opengl.GL13" />
     <classNode dependClassName="org.lwjgl.opengl.GL20" />
@@ -49,6 +77,8 @@
     <classNode dependClassName="org.lwjgl.util.vector.Matrix4f" />
   </dependency>
   <dependency className="CM.test.Shader" file="Shader.java">
+    <classNode dependClassName="CM.test.Cam" />
+    <classNode dependClassName="CM.test.Maths" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="org.lwjgl.util.vector.Matrix4f" />

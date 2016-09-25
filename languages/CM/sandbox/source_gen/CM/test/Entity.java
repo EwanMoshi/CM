@@ -46,7 +46,7 @@ public class Entity {
     return this.model;
   }
 
-  public void increaesRotation(float dx, float dy, float dz) {
+  public void increaseRotation(float dx, float dy, float dz) {
     this.rotX += dx;
     this.rotY += dy;
     this.rotZ += dz;
