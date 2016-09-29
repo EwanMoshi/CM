@@ -18,7 +18,7 @@ public class Cam {
   private Entity entity;
 
   public Cam(Entity e) {
-    this.camSpeed = 0.01f;
+    this.camSpeed = 0.5f;
     this.entity = e;
   }
 

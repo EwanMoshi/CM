@@ -6,11 +6,13 @@ import CM.test.Display;
 import CM.test.Loader;
 import CM.test.Shader;
 import CM.test.Renderer;
+import java.util.List;
+import CM.test.Entity;
+import java.util.ArrayList;
 import CM.test.RawModel;
 import CM.test.ModelLoader;
 import CM.test.MTexture;
 import CM.test.TModel;
-import CM.test.Entity;
 import org.lwjgl.util.vector.Vector3f;
 import CM.test.Cam;
 
@@ -29,22 +31,35 @@ public class testCake {
 
 
 
-
   public void createTier() {
 
     String bottom = "chocolate";
-    String top = "redvelvet";
-    double bottomSize = 4;
-    double topSize = 1;
+    String middle = "redvelvet";
+    String top = "chocolate";
+    String tt = "redvelvet";
+    double bottomSize = 12;
+    double middleSize = 11;
+    double topSize = 10;
+    double ttSize = 4;
     if (bottom.equalsIgnoreCase("chocolate")) {
       createChocolateTier(bottomSize);
     } else if (bottom.equalsIgnoreCase("redvelvet")) {
       createRedVelvetTier(bottomSize);
     }
+    if (middle.equalsIgnoreCase("chocolate")) {
+      createChocolateTier(middleSize);
+    } else if (middle.equalsIgnoreCase("redvelvet")) {
+      createRedVelvetTier(middleSize);
+    }
     if (top.equalsIgnoreCase("chocolate")) {
       createChocolateTier(topSize);
     } else if (top.equalsIgnoreCase("redvelvet")) {
       createRedVelvetTier(topSize);
+    }
+    if (tt.equalsIgnoreCase("chocolate")) {
+      createChocolateTier(ttSize);
+    } else if (tt.equalsIgnoreCase("redvelvet")) {
+      createRedVelvetTier(ttSize);
     }
 
   }
@@ -91,7 +106,9 @@ public class testCake {
   }
 
 
-
+  public static float scaleSize(float size) {
+    return size * (size / 100);
+  }
 
   public static void main(String[] args) {
     testCake cake = new testCake();
@@ -110,17 +127,156 @@ public class testCake {
     Loader loader = new Loader();
     Shader shader = new Shader();
     Renderer renderer = new Renderer(shader);
+    List<Entity> entities = new ArrayList<Entity>();
 
 
-    RawModel model = ModelLoader.loadModel("chocCake", loader);
+    int bottomLevel = 1;
+    int middleLevel = 2;
+    int topLevel = 3;
+    int ttLevel = 4;
+    float bottomSize = scaleSize(12);
+    float middleSize = scaleSize(11);
+    float topSize = scaleSize(10);
+    float ttSize = scaleSize(4);
+
+    String bottomModel = "chocolate";
+    String middleModel = "redvelvet";
+    String topModel = "chocolate";
+    String ttModel = "redvelvet";
+    String bottomDecoration = "icing";
+    String middleDecoration = "icing";
+    String topDecoration = "icing";
+    String ttDecoration = "";
+    int i = 0;
+    int bottomCounter = i++;
+    int middleCounter = i++;
+    int topCounter = i++;
+    int ttCounter = i++;
 
 
-    MTexture texture = new MTexture(loader.loadTex("choc"));
-    TModel tModel = new TModel(model, texture);
+    // TODO: Fix the levels 
+    // scale according to size 
+    if (bottomModel.equalsIgnoreCase("chocolate")) {
+      if (bottomDecoration.equalsIgnoreCase("icing")) {
+        RawModel model = ModelLoader.loadModel("chocCakeIcing", loader);
+        MTexture texture = new MTexture(loader.loadTex("chocIcing"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, bottomLevel + bottomCounter, -10), 0, 0, 0, bottomSize);
+        entities.add(e);
+      } else {
+        RawModel model = ModelLoader.loadModel("chocCake", loader);
+        MTexture texture = new MTexture(loader.loadTex("choc"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, bottomLevel + bottomCounter, -10), 0, 0, 0, bottomSize);
+        entities.add(e);
+      }
+    } else if (bottomModel.equalsIgnoreCase("redvelvet")) {
+      if (bottomDecoration.equalsIgnoreCase("icing")) {
+        RawModel model = ModelLoader.loadModel("velvetCakeIcing", loader);
+        MTexture texture = new MTexture(loader.loadTex("velvetIcing"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, bottomLevel + bottomCounter, -10), 0, 0, 0, bottomSize);
+        entities.add(e);
+      } else {
+        RawModel model = ModelLoader.loadModel("redVelvetCake", loader);
+        MTexture texture = new MTexture(loader.loadTex("rv"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, bottomLevel + bottomCounter, -10), 0, 0, 0, bottomSize);
+        entities.add(e);
+      }
+    }
+    if (middleModel.equalsIgnoreCase("chocolate")) {
+      if (middleDecoration.equalsIgnoreCase("icing")) {
+        RawModel model = ModelLoader.loadModel("chocCakeIcing", loader);
+        MTexture texture = new MTexture(loader.loadTex("chocIcing"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, middleLevel + middleCounter, -10), 0, 0, 0, middleSize);
+        entities.add(e);
+      } else {
+        RawModel model = ModelLoader.loadModel("chocCake", loader);
+        MTexture texture = new MTexture(loader.loadTex("choc"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, middleLevel + middleCounter, -10), 0, 0, 0, middleSize);
+        entities.add(e);
+      }
+    } else if (middleModel.equalsIgnoreCase("redvelvet")) {
+      if (middleDecoration.equalsIgnoreCase("icing")) {
+        RawModel model = ModelLoader.loadModel("velvetCakeIcing", loader);
+        MTexture texture = new MTexture(loader.loadTex("velvetIcing"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, middleLevel + middleCounter, -10), 0, 0, 0, middleSize);
+        entities.add(e);
+      } else {
+        RawModel model = ModelLoader.loadModel("redVelvetCake", loader);
+        MTexture texture = new MTexture(loader.loadTex("rv"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, middleLevel + middleCounter, -10), 0, 0, 0, middleSize);
+        entities.add(e);
+      }
+    }
+    if (topModel.equalsIgnoreCase("chocolate")) {
+      if (topDecoration.equalsIgnoreCase("icing")) {
+        RawModel model = ModelLoader.loadModel("chocCakeIcing", loader);
+        MTexture texture = new MTexture(loader.loadTex("chocIcing"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, topLevel + topCounter, -10), 0, 0, 0, topSize);
+        entities.add(e);
+      } else {
+        RawModel model = ModelLoader.loadModel("chocCake", loader);
+        MTexture texture = new MTexture(loader.loadTex("choc"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, topLevel + topCounter, -10), 0, 0, 0, topSize);
+        entities.add(e);
+      }
+    } else if (topModel.equalsIgnoreCase("redvelvet")) {
+      if (topDecoration.equalsIgnoreCase("icing")) {
+        RawModel model = ModelLoader.loadModel("velvetCakeIcing", loader);
+        MTexture texture = new MTexture(loader.loadTex("velvetIcing"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, topLevel + topCounter, -10), 0, 0, 0, topSize);
+        entities.add(e);
+      } else {
+        RawModel model = ModelLoader.loadModel("redVelvetCake", loader);
+        MTexture texture = new MTexture(loader.loadTex("rv"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, topLevel + topCounter, -10), 0, 0, 0, topSize);
+        entities.add(e);
+      }
+    }
+    if (ttModel.equalsIgnoreCase("chocolate")) {
+      if (ttDecoration.equalsIgnoreCase("icing")) {
+        RawModel model = ModelLoader.loadModel("chocCakeIcing", loader);
+        MTexture texture = new MTexture(loader.loadTex("chocIcing"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, ttLevel + ttCounter, -10), 0, 0, 0, ttSize);
+        entities.add(e);
+      } else {
+        RawModel model = ModelLoader.loadModel("chocCake", loader);
+        MTexture texture = new MTexture(loader.loadTex("choc"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, ttLevel + ttCounter, -10), 0, 0, 0, ttSize);
+        entities.add(e);
+      }
+    } else if (ttModel.equalsIgnoreCase("redvelvet")) {
+      if (ttDecoration.equalsIgnoreCase("icing")) {
+        RawModel model = ModelLoader.loadModel("velvetCakeIcing", loader);
+        MTexture texture = new MTexture(loader.loadTex("velvetIcing"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, ttLevel + ttCounter, -10), 0, 0, 0, ttSize);
+        entities.add(e);
+      } else {
+        RawModel model = ModelLoader.loadModel("redVelvetCake", loader);
+        MTexture texture = new MTexture(loader.loadTex("rv"));
+        TModel tModel = new TModel(model, texture);
+        Entity e = new Entity(tModel, new Vector3f(0, ttLevel + ttCounter, -10), 0, 0, 0, ttSize);
+        entities.add(e);
+      }
+    }
 
-    Entity e = new Entity(tModel, new Vector3f(0, 0, -10), 0, 0, 0, 1);
 
-    Entity defaultLook = new Entity(tModel, new Vector3f(0, 0, -10), 0, 0, 0, 1);
+
+
+    Entity defaultLook = new Entity(null, new Vector3f(0, 0, -10), 0, 0, 0, 1);
     Cam camera = new Cam(defaultLook);
 
     while (!(org.lwjgl.opengl.Display.isCloseRequested())) {
@@ -128,7 +284,9 @@ public class testCake {
       renderer.prepare();
       shader.start();
       shader.loadViewMatrix(camera);
-      renderer.render(e, shader);
+      for (Entity e : entities) {
+        renderer.render(e, shader);
+      }
       shader.stop();
       Display.updateDisplay();
     }

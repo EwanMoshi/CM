@@ -137,11 +137,13 @@
   <node concept="1TIwiD" id="3qSRC2vPVAJ">
     <property role="1pbfSe" value="695166929" />
     <property role="TrG5h" value="RoyalIcing" />
+    <property role="34LRSv" value="icing" />
     <ref role="1TJDcQ" node="3qSRC2vPVzZ" resolve="Decoration" />
   </node>
   <node concept="1TIwiD" id="3qSRC2vPW5S">
     <property role="1pbfSe" value="695164936" />
     <property role="TrG5h" value="Sprinkles" />
+    <property role="34LRSv" value="sprinkles" />
     <ref role="1TJDcQ" node="3qSRC2vPVzZ" resolve="Decoration" />
     <node concept="1TJgyi" id="3qSRC2vPW6k" role="1TKVEl">
       <property role="TrG5h" value="type" />

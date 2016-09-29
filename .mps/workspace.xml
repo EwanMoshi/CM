@@ -7,24 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265a7c14-9f78-48b6-ab55-69ee6e11b277" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Cam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/ModelLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/classes_gen/CM/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/CM/classes_gen/CM/structure/StructureAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/classes_gen/CM/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/CM/generator/classes_gen/CM/generator/template/main/QueriesGenerated.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/classes_gen/CM/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/CM/generator/classes_gen/CM/generator/template/main/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/dependencies" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen.caches/CM/generator/template/main/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen/CM/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen/CM/generator/template/main/QueriesGenerated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/source_gen/CM/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/CM/generator/source_gen/CM/generator/template/main/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/CM/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/models/structure.mps" afterPath="$PROJECT_DIR$/languages/CM/models/structure.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/classes_gen/CM/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/CM/sandbox/classes_gen/CM/sandbox/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/classes_gen/CM/test/trace.info" afterPath="$PROJECT_DIR$/languages/CM/sandbox/classes_gen/CM/test/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/models/CM/sandbox.mps" afterPath="$PROJECT_DIR$/languages/CM/sandbox/models/CM/sandbox.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/test/dependencies" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/test/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/generated" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/sandbox/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/test/generated" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen.caches/CM/test/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/testCake.java" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/testCake.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Entity.java" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Entity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Loader.java" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Loader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Maths.java" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Maths.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Renderer.java" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Renderer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Shader.java" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Shader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Cam.java" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/Cam.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/trace.info" afterPath="$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/test/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/generated" afterPath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/structure/generated" afterPath="$PROJECT_DIR$/languages/CM/source_gen.caches/CM/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/CM/source_gen/CM/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/CM/source_gen/CM/structure/StructureAspectDescriptor.java" />
     </list>
     <ignored path="CM.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -41,7 +46,7 @@
       <list>
         <TabState>
           <option name="title" value="Console" />
-          <option name="history" value="kaurqQAABAAHKCBh3DkP707BrHIx5+Ttee8AABhUZW1wTW9kZWxfMjMwOTEzODkwMjU3NjgXSKIkWYgcKEJMmNSqurj2FvsAAC5UZW1wTW9kdWxlYTIyNDU5ODgtMWMyOC00MjRjLTk4ZDQtYWFiYWI4ZjYxNmZi/////6urq6taWlpaAALOq1GVJepPIpuSEDuVyowMAAAXamV0YnJhaW5zLm1wcy5sYW5nLmNvcmUAAQAAARA5bqqkAAANSU5hbWVkQ29uY2VwdAASAAEAAAEQOW7AQQAABG5hbWUAAAAA3hrYbW5QSgKzBtTRf2TDdQAAGmpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlAAMV+zQFH3JaLAAAC0NvbnNvbGVSb290ABIAAAAAAAIV+zQFH3JbrwAAB2hpc3RvcnkAFfs0BR9yW7EAAA1jb21tYW5kSG9sZGVyAATicWCstEhLAAANQ29tbWFuZEhvbGRlcgASAAAAAAAACoNfKMGqAr4AAAdIaXN0b3J5ABIAAAAAAAClpaWlAATyZpHSDe9MBq7GLLkMSvCkAAAdamV0YnJhaW5zLm1wcy5jb25zb2xlLnNjcmlwdHOl5N5TRqNE2qqzaP3xw07QAAAhamV0YnJhaW5zLm1wcy5jb25zb2xlLmlkZUNvbW1hbmRzmVpzlH92S4upKcU0SHCBBgAAJmpldGJyYWlucy5tcHMuY29uc29sZS5pbnRlcm5hbENvbW1hbmRz3hrYbW5QSgKzBtTRf2TDdQEAAAAFAAAAARdI+8Jd0l2kSDqLGXCSjhti1wAAJGpldGJyYWlucy5tcHMuZGV2a2l0LmdlbmVyYWwtcHVycG9zZQAAAAQHKOcS81NcPEKIrc6HyValL/sAACdqZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0cy5zdHJ1Y3R1cmVw/////wcoE1pgbwN2TFyauEAw8FGgYgAAK2pldGJyYWlucy5tcHMuY29uc29sZS5pZGVDb21tYW5kcy5zdHJ1Y3R1cmVw/////wcokERSBqlzTB23YDDlx3t0lwAAMGpldGJyYWlucy5tcHMuY29uc29sZS5pbnRlcm5hbENvbW1hbmRzLnN0cnVjdHVyZXD/////Byg1mx0rd8RG35vysly+oyJUAAAkamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2Uuc3RydWN0dXJlcP////+6urq6AAAAAQABGAwHwmSBNQAI//97AAAAAAAAAAAAAgADGAwHwmSBNQAJAAB7AAAAAAAAAAAAAH0AAhgMB8JkgTUACgABewABAAABAAAACQAAAAAAAAAAfX0=" />
+          <option name="history" value="kaurqQAABAAHKC1ofNu+Lk4mhANxfZ4wiEkAABdUZW1wTW9kZWxfMzE5MjI3MTE4MjU4MxdIJM3nrye8STyryXmgSBMaoQAALlRlbXBNb2R1bGUyNGNkZTdhZi0yN2JjLTQ5M2MtYWJjOS03OWEwNDgxMzFhYTH/////q6urq1paWloAAs6rUZUl6k8im5IQO5XKjAwAABdqZXRicmFpbnMubXBzLmxhbmcuY29yZQABAAABEDluqqQAAA1JTmFtZWRDb25jZXB0ABIAAQAAARA5bsBBAAAEbmFtZQAAAADeGthtblBKArMG1NF/ZMN1AAAaamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2UAAxX7NAUfclosAAALQ29uc29sZVJvb3QAEgAAAAAAAhX7NAUfcluvAAAHaGlzdG9yeQAV+zQFH3JbsQAADWNvbW1hbmRIb2xkZXIABOJxYKy0SEsAAA1Db21tYW5kSG9sZGVyABIAAAAAAAAKg18owaoCvgAAB0hpc3RvcnkAEgAAAAAAAKWlpaUABPJmkdIN70wGrsYsuQxK8KQAAB1qZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0c6Xk3lNGo0TaqrNo/fHDTtAAACFqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHOZWnOUf3ZLi6kpxTRIcIEGAAAmamV0YnJhaW5zLm1wcy5jb25zb2xlLmludGVybmFsQ29tbWFuZHPeGthtblBKArMG1NF/ZMN1AQAAAAUAAAABF0j7wl3SXaRIOosZcJKOG2LXAAAkamV0YnJhaW5zLm1wcy5kZXZraXQuZ2VuZXJhbC1wdXJwb3NlAAAABAco5xLzU1w8QoitzofJVqUv+wAAJ2pldGJyYWlucy5tcHMuY29uc29sZS5zY3JpcHRzLnN0cnVjdHVyZXD/////BygTWmBvA3ZMXJq4QDDwUaBiAAAramV0YnJhaW5zLm1wcy5jb25zb2xlLmlkZUNvbW1hbmRzLnN0cnVjdHVyZXD/////ByiQRFIGqXNMHbdgMOXHe3SXAAAwamV0YnJhaW5zLm1wcy5jb25zb2xlLmludGVybmFsQ29tbWFuZHMuc3RydWN0dXJlcP////8HKDWbHSt3xEbfm/KyXL6jIlQAACRqZXRicmFpbnMubXBzLmNvbnNvbGUuYmFzZS5zdHJ1Y3R1cmVw/////7q6uroAAAABAAEYVxlU81Uw2QX//3sAAAAAAAAAAAACAAMYVxlU81Uw2QYAAHsAAAAAAAAAAAAAfQACGFcZVPNVMNkHAAF7AAEAAAEAAAAJAAAAAAAAAAB9fQ==" />
         </TabState>
       </list>
     </option>
@@ -62,19 +67,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cake" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cake" pinned="false" current-in-tab="false">
         <entry file="mps://node://CM/CM.structure/Cake">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="1438">
+              <memento viewPositionX="0" viewPositionY="1870">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="12" />
-                    <property name="caretX" value="295" />
+                    <property name="caretXRelative" value="20" />
+                    <property name="caretX" value="774" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_2kx0ph_a0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/7404101026328063804" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -82,7 +87,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/6276140959800568437" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -94,205 +99,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cam" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM.sandbox/CM.test/Cam">
+      <file leaf-file-name="testCake" pinned="false" current-in-tab="true">
+        <entry file="mps://node://CM.sandbox/CM.sandbox/testCake">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="8" />
-                    <property name="caretX" value="377" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_y9czm0_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/866875190212641694" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Renderer" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM.sandbox/CM.test/Renderer">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="516">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="152" />
-                    <property name="caretX" value="559" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name_1" cellNumber="0" isInList="false">
-                      <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532107004" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModelLoader" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM.sandbox/CM.test/ModelLoader">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="28" />
-                    <property name="caretX" value="287" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="ReferencePresentation_53xyyk_a0b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532141452" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM#3943146117781706990/CM.generator.template.main@generator/main">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="44" />
-                    <property name="caretX" value="206" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_applyToConceptInheritors" cellNumber="0" isInList="false">
-                      <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782020401" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Display" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM.sandbox/CM.test/Display">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="caretX" value="63" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_u338ov_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921173427" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Maths" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM.sandbox/CM.test/Maths">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="8" />
-                    <property name="caretX" value="273" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_y9czm0_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532031941" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Loader" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM.sandbox/CM.test/Loader">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="835">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="60" />
-                    <property name="caretX" value="319" />
+                    <property name="caretXRelative" value="68" />
+                    <property name="caretX" value="159" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532599349" />
+                      <node node_reference="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/6276140959800568437" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -300,7 +119,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/6276140959800568437" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -311,64 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Entity" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM.sandbox/CM.test/Entity">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="12" />
-                    <property name="caretX" value="767" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_fao2ea_a0" cellNumber="0" isInList="false">
-                      <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921354168" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MTexture" pinned="false" current-in-tab="false">
-        <entry file="mps://node://CM.sandbox/CM.test/MTexture">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="12" />
-                    <property name="caretX" value="127" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921699176" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
+      <file leaf-file-name="testCake.java" pinned="false" current-in-tab="false">
+        <entry file="previewCM.sandbox@0/testCake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="215" column="62" selection-start-line="215" selection-start-column="54" selection-end-line="215" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -481,10 +247,55 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Favorites" />
       <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM#3943146117781706990" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/models/structure.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -513,7 +324,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/sandbox/models/CM/test.mps}" />
+              <option name="myItemId" value="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/sandbox/models/CM/sandbox.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -524,14 +335,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CM" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/sandbox/models/CM/sandbox.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -563,31 +366,15 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/languages/CM/sandbox/CM.sandbox.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CM" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/sandbox/models/CM/test.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -601,11 +388,17 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CM#3943146117781706990" />
+              <option name="myItemId" value="r:05ef0f50-dbbe-4077-ad2c-096640dbd87e(CM.editor) in IdeaFile{file://C:/Users/Ewan/MPSProjects/CM/languages/CM/models/editor.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CM" />
+              <option name="myItemId" value="302ba974-9330-456c-8ab1-41e68cf0c655(CM)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -639,6 +432,7 @@
           </SELECTED>
         </subPane>
       </pane>
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -772,6 +566,40 @@
       </myJavaRunParameters>
       <method />
     </configuration>
+    <configuration default="false" name="Tests in 'CM#3943146117781706990'" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" value="CM#3943146117781706990" />
+          <option name="myLightExec" value="false" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="C:\Users\Ewan\AppData\Local\Temp\mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="1" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
       <MyState />
       <myJUnitSettings>
@@ -852,19 +680,21 @@
       </myRunParameters>
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Java Application.Class map_Cake" />
       <item index="1" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'CM'" />
       <item index="2" class="java.lang.String" itemvalue="Java Application.Node testCake" />
       <item index="3" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'sandbox'" />
       <item index="4" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'test'" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'CM#3943146117781706990'" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Java Application.Node testCake" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'test'" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'sandbox'" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'CM'" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'CM#3943146117781706990'" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'test'" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'sandbox'" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'CM'" />
       </list>
     </recent_temporary>
   </component>
@@ -873,31 +703,31 @@
     <configuration>C:\Users\Ewan\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32747805" sideWeight="0.5277778" order="23" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2208281" sideWeight="0.55277777" order="23" side_tool="true" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991013" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873276" sideWeight="0.49166667" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32747805" sideWeight="0.45833334" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32747805" sideWeight="0.45555556" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3186951" sideWeight="0.46666667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32496864" sideWeight="0.44027779" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32747805" sideWeight="0.5416667" order="16" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2208281" sideWeight="0.5611111" order="16" side_tool="true" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998747" sideWeight="0.48125" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
       <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998747" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992298" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2208281" sideWeight="0.43958333" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2208281" sideWeight="0.43888888" order="20" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -939,7 +769,8 @@
     <MESSAGE value="a" />
     <MESSAGE value="imported LWJGL library" />
     <MESSAGE value="working on rendering 3d cakes - error with subtype of ?no classifier?" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on rendering 3d cakes - error with subtype of ?no classifier?" />
+    <MESSAGE value="added cake model and camera rotation with mouse" />
+    <option name="LAST_COMMIT_MESSAGE" value="added cake model and camera rotation with mouse" />
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://node://CM/CM.structure/Shape">
@@ -1429,36 +1260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://CM/CM.structure/RoyalIcing">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="31" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
-                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764527" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766548" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764527" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://jetbrains.mps.lang.core/jetbrains.mps.lang.core.structure/INamedConcept">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1528,246 +1329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://CM/CM.structure/Square">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="56" />
-                <property name="caretX" value="71" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707142" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782427484" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707142" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/Tier">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="47" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="empty_inspectedCellModel" cellNumber="0" isInList="false">
-                  <node node_reference="r:05ef0f50-dbbe-4077-ad2c-096640dbd87e(CM.editor)/3943146117781870186" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782644073" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:05ef0f50-dbbe-4077-ad2c-096640dbd87e(CM.editor)/3943146117781870186" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/Circle">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="56" />
-                <property name="caretX" value="71" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707112" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782165980" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/Decoration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="31" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
-                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764351" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764351" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764351" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/Sprinkles">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="8" />
-                <property name="caretX" value="544" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782212002" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782212002" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782211808" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/Flavour">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="303" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_a1b4a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764379" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/8192684175542260320" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764379" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/RedVelvet">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="8" />
-                <property name="caretX" value="314" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_y9czm0_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782608401" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782608401" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782608358" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/Shape">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="287" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_a1b4a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707084" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707084" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707084" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://CM#3943146117781706990/CM.generator.template.main@generator/testingnewclasses">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1783,8 +1344,8 @@
                 </cellInfo>
               </stackElement>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="true" />
                 <property name="selectionEnd" value="5" />
+                <property name="hasNonTrivialSelection" value="true" />
                 <property name="caretXRelative" value="4" />
                 <property name="selectionStart" value="0" />
                 <property name="caretX" value="71" />
@@ -1905,122 +1466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://CM.sandbox/CM.test/RawModel">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="47" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_xaaxob_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369920526099" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921727802" viewPositionX="0" viewPositionY="-8">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM.sandbox/CM.sandbox/testCake">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="4" />
-                <property name="caretX" value="111" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="empty_decoration" cellNumber="0" isInList="false">
-                  <node node_reference="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/5837809685657099266" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/4240159451813244182" viewPositionX="0" viewPositionY="-8">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM.sandbox/CM.test/ShaderProgram">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="1182">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="31" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_s96plr_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921560105" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532107004" viewPositionX="0" viewPositionY="-8">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM.sandbox/CM.test/Shader">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="112">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="112" />
-                <property name="caretX" value="295" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532068591" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532141452" viewPositionX="0" viewPositionY="-8">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://CM.sandbox/CM.test/TModel">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -2050,106 +1495,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/testCake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6403846">
-          <caret line="125" column="106" selection-start-line="125" selection-start-column="106" selection-end-line="125" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/Chocolate">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="132" />
-                <property name="caretX" value="215" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782426938" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782426938" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782426938" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM/CM.structure/Cake">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="1438">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="12" />
-                <property name="caretX" value="295" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_2kx0ph_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782020403" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM.sandbox/CM.test/Cam">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="8" />
-                <property name="caretX" value="377" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_y9czm0_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/866875190212641694" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://CM.sandbox/CM.test/Renderer">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="516">
+          <memento viewPositionX="0" viewPositionY="471">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
@@ -2165,36 +1514,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM.sandbox/CM.test/ModelLoader">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="28" />
-                <property name="caretX" value="287" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="ReferencePresentation_53xyyk_a0b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532141452" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532107004" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -2223,36 +1543,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://CM.sandbox/CM.test/Display">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="63" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_u338ov_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921173427" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532599349" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -2281,7 +1572,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532031941" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -2291,18 +1582,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://CM.sandbox/CM.test/Loader">
+    <entry file="mps://node://CM.sandbox/CM.test/RawModel">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="835">
+          <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="60" />
-                <property name="caretX" value="319" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="47" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532599349" />
+                <cellInfo cellId="Constant_xaaxob_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369920526099" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -2310,7 +1601,497 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781770673" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM.sandbox/CM.test/Shader">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="selectionEnd" value="24" />
+                <property name="caretXRelative" value="64" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="391" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921502973" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921390161" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM.sandbox/CM.test/ShaderProgram">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="20" />
+                <property name="caretX" value="263" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_53xyyk_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921390981" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="selectionEnd" value="14" />
+                <property name="caretXRelative" value="20" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="263" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_53xyyk_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921390981" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-243" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_53xyyk_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921390981" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-211" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_2kx0ph_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921390193" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-63" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_i0gfbw_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921390161" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921390161" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/CM/sandbox/source_gen/CM/sandbox/testCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10286678">
+          <caret line="188" column="92" selection-start-line="188" selection-start-column="92" selection-end-line="188" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Flavour">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="303" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_a1b4a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764379" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/RedVelvet">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="71" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781772838" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781772838" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Chocolate">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="71" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781770673" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781770673" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Shape">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="287" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_a1b4a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707084" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707084" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Circle">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="71" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707112" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Square">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="71" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707142" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781707142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/RoyalIcing">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="44" />
+                <property name="caretX" value="127" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_conceptAlias" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764527" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764527" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Sprinkles">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="76" />
+                <property name="caretX" value="159" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_conceptAlias" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781766520" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Cake">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="1870">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="20" />
+                <property name="caretX" value="774" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/7404101026328063804" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/6276140959800568437" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/3943146117782020403" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM.sandbox/CM.sandbox/testCake">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="68" />
+                <property name="caretX" value="159" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/6276140959800568437" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df73beab-2c5a-47c7-854d-694c9574cc63(CM.sandbox)/6276140959800568437" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Tier">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="28" />
+                <property name="caretX" value="187" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_role" cellNumber="0" isInList="false">
+                  <node node_reference="r:05ef0f50-dbbe-4077-ad2c-096640dbd87e(CM.editor)/3943146117781890037" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/5837809685657186556" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:05ef0f50-dbbe-4077-ad2c-096640dbd87e(CM.editor)/3943146117781870186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM/CM.structure/Decoration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="31" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
+                  <node node_reference="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764351" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764351" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:94905265-4e07-413c-a10a-234b952889f4(CM.structure)/3943146117781764351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM.sandbox/CM.test/Cam">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="28" />
+                <property name="caretX" value="199" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/866875190212653650" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/866875190212653650" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -2339,7 +2120,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921354168" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -2368,7 +2149,96 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/2980444369922429036" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921699176" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM.sandbox/CM.test/ModelLoader">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="741">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="28" />
+                <property name="caretX" value="287" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_53xyyk_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532141452" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/8095760443532141452" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM.sandbox/CM.test/Display">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="12" />
+                <property name="caretX" value="321" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_fao2ea_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921173390" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/7404101026327418489" viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://CM.sandbox/CM.test/Loader">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="9" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretXRelative" value="32" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="423" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                  <node node_reference="r:0138e8a3-440f-435e-903f-dce3a3ac95a3(CM.test)/2980444369921682917" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b31e803a-e01b-407f-b653-ac15a0362f5e(CM.generator.template.main@generator)/7404101026327418489" viewPositionX="0" viewPositionY="-8">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
